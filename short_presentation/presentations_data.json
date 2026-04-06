@@ -1,0 +1,4309 @@
+[
+  {
+    "lesson_name": "What Rainbows Are",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Describe what a rainbow looks like and why it appears after rain.",
+    "preparation_guidelines": [
+      "Say when rainbows appear",
+      "Name some rainbow colors",
+      "Explain how sunlight helps make a rainbow",
+      "End with why rainbows are exciting"
+    ]
+  },
+  {
+    "lesson_name": "Why We Drink Water",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Explain why our bodies need water every day.",
+    "preparation_guidelines": [
+      "Say what water does for our body",
+      "Give examples of when we need water",
+      "Explain how water helps us stay healthy",
+      "Encourage drinking water often"
+    ]
+  },
+  {
+    "lesson_name": "What Friends Do",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Share what friends do together and why friendships matter.",
+    "preparation_guidelines": [
+      "Say what friends can do for each other",
+      "Give an example of kindness",
+      "Explain how friends make us feel",
+      "Encourage being a good friend"
+    ]
+  },
+  {
+    "lesson_name": "How Bees Help Flowers",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how bees help flowers grow by moving pollen.",
+    "preparation_guidelines": [
+      "Say what bees collect",
+      "Describe how bees visit flowers",
+      "Explain pollination simply",
+      "End with why bees are important"
+    ]
+  },
+  {
+    "lesson_name": "Why We Brush Our Teeth",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Describe why brushing our teeth keeps them clean and strong.",
+    "preparation_guidelines": [
+      "Say what brushing removes",
+      "Explain why brushing prevents cavities",
+      "Mention how often we should brush",
+      "End with a healthy reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Seeds Grow",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how a small seed grows when it gets water, sunlight, and soil.",
+    "preparation_guidelines": [
+      "Say what seeds need",
+      "Describe what happens first",
+      "Mention how plants change as they grow",
+      "Encourage caring for plants"
+    ]
+  },
+  {
+    "lesson_name": "What Maps Show",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Share what maps show and how they help us find places.",
+    "preparation_guidelines": [
+      "Say what maps look like",
+      "Explain what they show (roads, buildings, parks)",
+      "Mention why maps are useful",
+      "Give a simple example"
+    ]
+  },
+  {
+    "lesson_name": "Why We Wash Our Hands",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Explain why washing hands keeps us safe from germs.",
+    "preparation_guidelines": [
+      "Say what germs are",
+      "Name times we should wash hands",
+      "Explain how soap helps",
+      "Encourage clean habits"
+    ]
+  },
+  {
+    "lesson_name": "What Clouds Are",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Describe what clouds are made of and how they float in the sky.",
+    "preparation_guidelines": [
+      "Say clouds are tiny water drops",
+      "Mention cloud shapes",
+      "Explain how clouds move",
+      "Share what clouds show about weather"
+    ]
+  },
+  {
+    "lesson_name": "Why We Eat Healthy Snacks",
+    "grade": 1,
+    "difficulty": "EASY",
+    "topic_overview": "Share why healthy snacks give us energy to learn and play.",
+    "preparation_guidelines": [
+      "Name a few healthy snacks",
+      "Explain how snacks give energy",
+      "Mention how they help our bodies",
+      "End with a simple suggestion"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Build Nests",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how birds gather materials and build nests to protect their eggs.",
+    "preparation_guidelines": [
+      "Name materials birds use",
+      "Explain why nests keep eggs safe",
+      "Say where nests might be found",
+      "End with a nature fact"
+    ]
+  },
+  {
+    "lesson_name": "How a Kite Flies",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how wind helps a kite rise and stay in the air.",
+    "preparation_guidelines": [
+      "Say what a kite needs to fly",
+      "Describe how wind lifts the kite",
+      "Explain why the string matters",
+      "End with why flying feels exciting"
+    ]
+  },
+  {
+    "lesson_name": "Why Sharing Matters",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe why sharing helps people feel included and cared for.",
+    "preparation_guidelines": [
+      "Say what sharing is",
+      "Give an example",
+      "Explain how sharing makes others feel",
+      "Encourage sharing with kindness"
+    ]
+  },
+  {
+    "lesson_name": "How Turtles Stay Safe",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how turtles use their shells to protect themselves.",
+    "preparation_guidelines": [
+      "Describe turtle shells",
+      "Explain how turtles hide",
+      "Say why this keeps them safe",
+      "End with one turtle fact"
+    ]
+  },
+  {
+    "lesson_name": "How Shadows Form",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how light and objects create shadows.",
+    "preparation_guidelines": [
+      "Say what makes a shadow",
+      "Give shadow examples",
+      "Explain how shadows change",
+      "Suggest a fun shadow activity"
+    ]
+  },
+  {
+    "lesson_name": "Why We Use Traffic Lights",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how traffic lights help cars and people stay safe on the road.",
+    "preparation_guidelines": [
+      "Say what each color means",
+      "Explain how traffic lights guide traffic",
+      "Mention where we see them",
+      "End with a safety reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Penguins Stay Warm",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how penguins use feathers and huddling to stay warm.",
+    "preparation_guidelines": [
+      "Describe penguin feathers",
+      "Explain why penguins huddle",
+      "Say how cold their home is",
+      "End with a penguin behavior"
+    ]
+  },
+  {
+    "lesson_name": "How Rain Helps Plants",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain why plants need rain to grow strong.",
+    "preparation_guidelines": [
+      "Say what rain gives plants",
+      "Describe how plants take in water",
+      "Explain what happens when they get enough rain",
+      "End with a nature example"
+    ]
+  },
+  {
+    "lesson_name": "Why We Read Stories",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how stories help us imagine, learn, and explore new ideas.",
+    "preparation_guidelines": [
+      "Say why stories are fun",
+      "Mention what we learn",
+      "Give examples of characters",
+      "Encourage reading often"
+    ]
+  },
+  {
+    "lesson_name": "How Butterflies Use Their Wings",
+    "grade": 1,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how butterflies use their wings to fly, find flowers, and stay safe.",
+    "preparation_guidelines": [
+      "Say what wings look like",
+      "Explain how wings help them fly",
+      "Mention wings for hiding or showing colors",
+      "End with a butterfly fact"
+    ]
+  },
+  {
+    "lesson_name": "How Trees Clean the Air",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how trees help clean the air by taking in carbon dioxide and releasing oxygen.",
+    "preparation_guidelines": [
+      "Say what trees breathe in",
+      "Say what they give out",
+      "Explain why this helps us",
+      "End with a nature reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Wind Moves Things",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Share how wind can move leaves, branches, and even kites by pushing air around.",
+    "preparation_guidelines": [
+      "Give examples of things wind moves",
+      "Explain how air pushes objects",
+      "Describe gentle vs. strong wind",
+      "End with a safety note"
+    ]
+  },
+  {
+    "lesson_name": "Why We Follow Rules",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Explain why rules help everyone stay safe and fair in school and at home.",
+    "preparation_guidelines": [
+      "Say what rules are",
+      "Give an example",
+      "Explain how rules keep us safe",
+      "Encourage following rules kindly"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Use Their Beaks",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how different birds use their beaks to eat, build, and explore.",
+    "preparation_guidelines": [
+      "Name beak shapes",
+      "Explain how beaks help birds",
+      "Give examples (pecking, sipping)",
+      "End with a bird fact"
+    ]
+  },
+  {
+    "lesson_name": "How Rainbows Show Light Colors",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Share how rainbows show all the colors that are inside sunlight.",
+    "preparation_guidelines": [
+      "Say that sunlight has colors",
+      "Explain how rainbows show them",
+      "Name a few colors",
+      "End with why this is amazing"
+    ]
+  },
+  {
+    "lesson_name": "Why Animals Have Tails",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how tails help animals balance, communicate, or stay safe.",
+    "preparation_guidelines": [
+      "Name animals with tails",
+      "Explain one tail use",
+      "Give another example",
+      "End with an animal behavior"
+    ]
+  },
+  {
+    "lesson_name": "How Frogs Grow Up",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Describe the simple stages of a frog’s life from tadpole to adult.",
+    "preparation_guidelines": [
+      "Say what a tadpole is",
+      "Describe one change",
+      "Mention the adult frog",
+      "End with a frog fact"
+    ]
+  },
+  {
+    "lesson_name": "How We Hear Sounds",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how our ears help us hear sounds around us.",
+    "preparation_guidelines": [
+      "Say how sound travels",
+      "Mention how ears collect sound",
+      "Describe hearing something familiar",
+      "End with a hearing reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Sunlight Helps Us",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Share how sunlight gives warmth and helps plants grow.",
+    "preparation_guidelines": [
+      "Say what sunlight gives",
+      "Explain why plants need it",
+      "Mention how sunlight helps people",
+      "End with a safety tip"
+    ]
+  },
+  {
+    "lesson_name": "Why We Say “Thank You”",
+    "grade": 1,
+    "difficulty": "HARD",
+    "topic_overview": "Describe why thanking others shows respect and kindness.",
+    "preparation_guidelines": [
+      "Say what “thank you” means",
+      "Give an example",
+      "Explain how it makes people feel",
+      "Encourage using kind words"
+    ]
+  },
+  {
+    "lesson_name": "How Plants Make Food",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how plants use sunlight, water, and air to make their own food.",
+    "preparation_guidelines": [
+      "Name what plants need",
+      "Say what sunlight does",
+      "Explain why leaves are important",
+      "End with why plants are special"
+    ]
+  },
+  {
+    "lesson_name": "Why We Use Clocks",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how clocks help us keep track of time during the day.",
+    "preparation_guidelines": [
+      "Say what clocks show",
+      "Explain why time matters",
+      "Mention times we follow schedules",
+      "End with a daily example"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Migrate",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Share how some birds travel long distances during certain seasons.",
+    "preparation_guidelines": [
+      "Say what migration is",
+      "Describe why birds travel",
+      "Mention where birds might go",
+      "End with a bird fact"
+    ]
+  },
+  {
+    "lesson_name": "Why We Recycle Paper",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Explain why recycling paper helps save trees and protect nature.",
+    "preparation_guidelines": [
+      "Say what paper comes from",
+      "Explain how recycling helps",
+      "Mention items made from recycled paper",
+      "End with a simple action step"
+    ]
+  },
+  {
+    "lesson_name": "How Bridges Stay Strong",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how bridges are built to hold people and cars safely.",
+    "preparation_guidelines": [
+      "Say what bridges are used for",
+      "Mention strong materials",
+      "Explain why shape matters",
+      "End with an example of a bridge"
+    ]
+  },
+  {
+    "lesson_name": "Why We Stretch Before Exercise",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how stretching helps our muscles get ready to move.",
+    "preparation_guidelines": [
+      "Say what stretching does",
+      "Mention how it prevents injury",
+      "Explain how it helps us play better",
+      "End with a reminder to stretch"
+    ]
+  },
+  {
+    "lesson_name": "How Butterflies Find Flowers",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Share how butterflies use colors and scents to find flowers.",
+    "preparation_guidelines": [
+      "Say what butterflies look for",
+      "Explain how they find nectar",
+      "Mention how flowers attract them",
+      "End with a butterfly detail"
+    ]
+  },
+  {
+    "lesson_name": "Why We Use Backpacks",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Describe why backpacks help us carry books and supplies safely.",
+    "preparation_guidelines": [
+      "Say what we put in backpacks",
+      "Explain how straps help",
+      "Mention how backpacks protect items",
+      "End with a simple safety tip"
+    ]
+  },
+  {
+    "lesson_name": "How Rain Helps Rivers Grow",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how rainfall fills rivers and keeps them flowing.",
+    "preparation_guidelines": [
+      "Say where rivers get water",
+      "Mention what rain adds",
+      "Explain how rivers grow stronger",
+      "End with why rivers matter"
+    ]
+  },
+  {
+    "lesson_name": "Why We Celebrate Birthdays",
+    "grade": 2,
+    "difficulty": "EASY",
+    "topic_overview": "Share why birthdays are special days to celebrate growth and joy.",
+    "preparation_guidelines": [
+      "Say what a birthday marks",
+      "Mention ways people celebrate",
+      "Explain why sharing joy is important",
+      "End with a positive message"
+    ]
+  },
+  {
+    "lesson_name": "How Windmills Make Power",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how windmills use moving air to create energy.",
+    "preparation_guidelines": [
+      "Say what windmills look like",
+      "Explain how blades turn",
+      "Mention how turning makes power",
+      "End with an example of usage"
+    ]
+  },
+  {
+    "lesson_name": "How Animals Blend Into Nature",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how animals use colors and patterns to hide from danger.",
+    "preparation_guidelines": [
+      "Define camouflage simply",
+      "Give one animal example",
+      "Explain how hiding keeps animals safe",
+      "End with a nature observation"
+    ]
+  },
+  {
+    "lesson_name": "Why We Follow Classroom Routines",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how routines help everyone learn and stay organized.",
+    "preparation_guidelines": [
+      "Say what a routine is",
+      "Mention one routine at school",
+      "Explain why routines help",
+      "End with a respectful reminder"
+    ]
+  },
+  {
+    "lesson_name": "How the Moon Changes Shape",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain why the moon looks different throughout the month.",
+    "preparation_guidelines": [
+      "Say the moon doesn’t change size",
+      "Mention light from the sun",
+      "Explain what phases are",
+      "End with a sky-watching idea"
+    ]
+  },
+  {
+    "lesson_name": "Why Good Sportsmanship Matters",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how kindness and fairness make games more fun for everyone.",
+    "preparation_guidelines": [
+      "Say what sportsmanship means",
+      "Give an example of fairness",
+      "Explain how it helps players",
+      "End with a positive message"
+    ]
+  },
+  {
+    "lesson_name": "How People Use Maps to Travel",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how maps guide us to places by showing directions.",
+    "preparation_guidelines": [
+      "Describe what a map shows",
+      "Mention symbols",
+      "Explain how maps help travelers",
+      "End with a simple example"
+    ]
+  },
+  {
+    "lesson_name": "How Frogs Survive in Water and on Land",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how frogs use special body parts to live in two places.",
+    "preparation_guidelines": [
+      "Describe frog legs",
+      "Mention how frogs breathe",
+      "Explain why frogs need both habitats",
+      "End with a frog behavior"
+    ]
+  },
+  {
+    "lesson_name": "Why We Sleep at Night",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe why our bodies need nighttime rest to stay healthy.",
+    "preparation_guidelines": [
+      "Say what sleep does for us",
+      "Mention how sleep gives energy",
+      "Explain why regular sleep matters",
+      "End with a calming tip"
+    ]
+  },
+  {
+    "lesson_name": "How Communities Work Together",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how people in a community help each other.",
+    "preparation_guidelines": [
+      "Say what a community is",
+      "Give examples of helpers",
+      "Explain why teamwork matters",
+      "End with an appreciation message"
+    ]
+  },
+  {
+    "lesson_name": "How Shadows Change During the Day",
+    "grade": 2,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share why shadows grow or shrink as the sun moves.",
+    "preparation_guidelines": [
+      "Say what makes a shadow",
+      "Explain how sun position changes shadow size",
+      "Give an example",
+      "End with a science observation"
+    ]
+  },
+  {
+    "lesson_name": "How Ocean Waves Travel",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how waves move energy across the ocean’s surface.",
+    "preparation_guidelines": [
+      "Say what causes waves",
+      "Describe how waves move",
+      "Mention why waves matter",
+      "End with a sea example"
+    ]
+  },
+  {
+    "lesson_name": "Why We Have Different Seasons",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how Earth’s tilt makes weather change during the year.",
+    "preparation_guidelines": [
+      "Say Earth moves around the sun",
+      "Explain why tilt matters",
+      "Mention one season change",
+      "End with a weather example"
+    ]
+  },
+  {
+    "lesson_name": "How Animals Communicate",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Share how animals use sounds, movements, or colors to send messages.",
+    "preparation_guidelines": [
+      "Name one communication method",
+      "Give an animal example",
+      "Explain why communication helps survival",
+      "End with a nature insight"
+    ]
+  },
+  {
+    "lesson_name": "How Recycling Protects the Planet",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how reusing materials helps reduce waste and pollution.",
+    "preparation_guidelines": [
+      "Say what recycling means",
+      "Mention items we can recycle",
+      "Explain how recycling helps Earth",
+      "End with an action step"
+    ]
+  },
+  {
+    "lesson_name": "Why We Use Thermometers",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how thermometers measure temperature to keep us safe.",
+    "preparation_guidelines": [
+      "Say what a thermometer shows",
+      "Mention hot vs. cold",
+      "Explain how we use it",
+      "End with a daily example"
+    ]
+  },
+  {
+    "lesson_name": "How Fish Breathe Underwater",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how fish use gills to get oxygen from water.",
+    "preparation_guidelines": [
+      "Describe gills simply",
+      "Explain how water helps",
+      "Mention why fish need oxygen",
+      "End with a fish fact"
+    ]
+  },
+  {
+    "lesson_name": "How Rain Forms in the Sky",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Share how clouds gather water drops until rain falls.",
+    "preparation_guidelines": [
+      "Say clouds hold water",
+      "Explain how drops grow heavier",
+      "Mention when rain begins",
+      "End with weather awareness"
+    ]
+  },
+  {
+    "lesson_name": "Why People Build Dams",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how dams help store water and protect towns from flooding.",
+    "preparation_guidelines": [
+      "Say what a dam is",
+      "Explain how it holds water",
+      "Mention why towns need dams",
+      "End with a safety example"
+    ]
+  },
+  {
+    "lesson_name": "How Bees Communicate",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how bees share messages using movements and scents.",
+    "preparation_guidelines": [
+      "Mention bee dances",
+      "Explain why bees need communication",
+      "Give an example (finding flowers)",
+      "End with a bee fact"
+    ]
+  },
+  {
+    "lesson_name": "How Light Helps Us See",
+    "grade": 2,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how light bounces off objects and enters our eyes so we can see.",
+    "preparation_guidelines": [
+      "Say why we need light",
+      "Explain how light travels",
+      "Mention an example",
+      "End with a vision reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Rain Forms in the Sky",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how warm air and water vapor come together to create rain.",
+    "preparation_guidelines": [
+      "Say how water vapor rises",
+      "Explain how clouds collect droplets",
+      "Describe when rain begins",
+      "End with why rain is important"
+    ]
+  },
+  {
+    "lesson_name": "How Seeds Travel",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how seeds move from one place to another using wind, water, or animals.",
+    "preparation_guidelines": [
+      "Name ways seeds travel",
+      "Explain how wind carries seeds",
+      "Mention how animals help",
+      "End with a nature example"
+    ]
+  },
+  {
+    "lesson_name": "Why We Need Rules in Games",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Share why rules help games stay fair and fun for everyone.",
+    "preparation_guidelines": [
+      "Say what game rules do",
+      "Mention one helpful rule",
+      "Explain how rules prevent problems",
+      "End with a fairness reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Magnets Attract Objects",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how magnets pull certain metals using an invisible force.",
+    "preparation_guidelines": [
+      "Say what magnets attract",
+      "Describe the idea of magnetic force",
+      "Mention everyday magnet uses",
+      "End with a safety note"
+    ]
+  },
+  {
+    "lesson_name": "How Animals Stay Warm in Winter",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Describe ways animals protect themselves from cold weather.",
+    "preparation_guidelines": [
+      "Mention fur or feathers",
+      "Explain hibernation simply",
+      "Give an example of an animal’s winter behavior",
+      "End with a nature observation"
+    ]
+  },
+  {
+    "lesson_name": "Why We Use Thermometers",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how thermometers help us measure temperature in different situations.",
+    "preparation_guidelines": [
+      "Say what a thermometer shows",
+      "Explain hot vs. cold readings",
+      "Mention how people use them",
+      "End with a real-life example"
+    ]
+  },
+  {
+    "lesson_name": "How Boats Float",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how the shape of a boat helps it float on water.",
+    "preparation_guidelines": [
+      "Mention buoyancy simply",
+      "Explain how boat shapes matter",
+      "Say why boats don’t sink",
+      "End with a simple example"
+    ]
+  },
+  {
+    "lesson_name": "How Bees Make Honey",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how bees collect nectar and turn it into honey.",
+    "preparation_guidelines": [
+      "Say how bees gather nectar",
+      "Describe honeycombs",
+      "Explain how nectar becomes honey",
+      "End with why honey is useful"
+    ]
+  },
+  {
+    "lesson_name": "Why We Celebrate Cultural Holidays",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Share why cultural holidays help families remember traditions.",
+    "preparation_guidelines": [
+      "Say what a cultural holiday is",
+      "Give an example (non-repetitive)",
+      "Explain why traditions matter",
+      "End with a message of respect"
+    ]
+  },
+  {
+    "lesson_name": "How Simple Machines Help Us Work",
+    "grade": 3,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how simple tools like levers and ramps make work easier.",
+    "preparation_guidelines": [
+      "Name a simple machine",
+      "Explain what it does",
+      "Give an example"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Rotation Creates Day and Night",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how Earth spinning on its axis causes daytime and nighttime.",
+    "preparation_guidelines": [
+      "Say Earth rotates",
+      "Explain why one side faces the sun",
+      "Describe what happens during nighttime",
+      "End with a sky observation"
+    ]
+  },
+  {
+    "lesson_name": "How Pulleys Make Lifting Easier",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how pulleys use wheels and ropes to help us lift heavy objects.",
+    "preparation_guidelines": [
+      "Say what a pulley is",
+      "Explain how the rope moves",
+      "Mention where pulleys are used",
+      "End with a simple example"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Use Songs to Communicate",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how birds use different sounds to talk to one another.",
+    "preparation_guidelines": [
+      "Say why birds sing",
+      "Mention one type of bird call",
+      "Explain what messages birds may send",
+      "End with a nature fact"
+    ]
+  },
+  {
+    "lesson_name": "How Water Evaporates",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how liquid water turns into vapor when heated.",
+    "preparation_guidelines": [
+      "Say what evaporation is",
+      "Give an example",
+      "Explain how heat helps",
+      "End with a real-world example"
+    ]
+  },
+  {
+    "lesson_name": "Why Good Listening Matters",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe why listening carefully helps us learn and understand others.",
+    "preparation_guidelines": [
+      "Say what listening looks like",
+      "Give a listening behavior",
+      "Explain why listening prevents confusion",
+      "End with a kindness reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Light Reflects Off Objects",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how light bounces off surfaces so we can see them.",
+    "preparation_guidelines": [
+      "Mention what reflection means",
+      "Give an example",
+      "Explain how our eyes receive light",
+      "End with a visual observation"
+    ]
+  },
+  {
+    "lesson_name": "How Fish Protect Themselves",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share the ways fish stay safe using movement, colors, or groups.",
+    "preparation_guidelines": [
+      "Name a fish defense",
+      "Explain how it works",
+      "Give one fish example",
+      "End with a nature insight"
+    ]
+  },
+  {
+    "lesson_name": "How Recycling Saves Resources",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how recycling reduces waste and saves natural materials.",
+    "preparation_guidelines": [
+      "Say what recycling is",
+      "Mention materials we can recycle",
+      "Explain how recycling helps Earth",
+      "End with a suggestion"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Forecasts Are Made",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how scientists use tools to predict weather patterns.",
+    "preparation_guidelines": [
+      "Say what tools are used",
+      "Explain how they collect information",
+      "Mention why predicting weather matters",
+      "End with a weather example"
+    ]
+  },
+  {
+    "lesson_name": "How Muscles Help Us Move",
+    "grade": 3,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how muscles pull our bones so we can move.",
+    "preparation_guidelines": [
+      "Say what muscles do",
+      "Mention how they move bones",
+      "Give an example of movement",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Tilt Creates Seasons",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how Earth’s tilted axis changes the amount of sunlight we receive, creating seasons.",
+    "preparation_guidelines": [
+      "Say Earth is tilted",
+      "Describe how sunlight changes",
+      "Mention one season difference",
+      "End with an example"
+    ]
+  },
+  {
+    "lesson_name": "How Food Chains Work",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how energy moves from plants to animals in a food chain.",
+    "preparation_guidelines": [
+      "Say what a food chain shows",
+      "Give one example",
+      "Explain how energy moves",
+      "End with a nature insight"
+    ]
+  },
+  {
+    "lesson_name": "How Oceans Affect Weather",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how warm and cool ocean water helps shape weather patterns.",
+    "preparation_guidelines": [
+      "Say oceans hold heat",
+      "Explain how this affects air",
+      "Mention an example",
+      "End with a weather note"
+    ]
+  },
+  {
+    "lesson_name": "How Simple Circuits Work",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how electricity flows through a closed path called a circuit.",
+    "preparation_guidelines": [
+      "Say what electricity needs",
+      "Mention wires and power sources",
+      "Explain what a closed circuit is",
+      "End with safety awareness"
+    ]
+  },
+  {
+    "lesson_name": "Why Leaders Need Cooperation",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Share why leaders work with others to make fair and helpful decisions.",
+    "preparation_guidelines": [
+      "Say what cooperation means",
+      "Give a leadership example",
+      "Explain how teamwork helps",
+      "End with a kindness message"
+    ]
+  },
+  {
+    "lesson_name": "How Earthquakes Happen",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how movement of Earth’s plates causes shaking called earthquakes.",
+    "preparation_guidelines": [
+      "Say Earth has plates",
+      "Explain how they move",
+      "Describe how shaking occurs",
+      "End with safety awareness"
+    ]
+  },
+  {
+    "lesson_name": "How Adaptations Help Animals Survive",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how special features help animals live in their environments.",
+    "preparation_guidelines": [
+      "Name an adaptation",
+      "Explain how it helps",
+      "Give an animal example",
+      "End with a nature observation"
+    ]
+  },
+  {
+    "lesson_name": "How Rainforests Support Life",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Explain why rainforests are home to many plants, animals, and ecosystems.",
+    "preparation_guidelines": [
+      "Say what rainforests are",
+      "Mention one rainforest animal",
+      "Explain why they are important",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Volcanoes Erupt",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how heat and pressure inside Earth cause volcanic eruptions.",
+    "preparation_guidelines": [
+      "Say what is inside a volcano",
+      "Explain why pressure builds",
+      "Mention what happens during an eruption",
+      "End with a caution message"
+    ]
+  },
+  {
+    "lesson_name": "How Communities Solve Problems",
+    "grade": 3,
+    "difficulty": "HARD",
+    "topic_overview": "Share how people work together to fix challenges in their neighborhoods.",
+    "preparation_guidelines": [
+      "Say what a community is",
+      "Describe a problem people solve",
+      "Explain how teamwork helps",
+      "End with a hopeful message"
+    ]
+  },
+  {
+    "lesson_name": "How Mountains Form",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how Earth’s plates push together and slowly form mountains over time.",
+    "preparation_guidelines": [
+      "Say what Earth’s plates are",
+      "Describe how plates push upward",
+      "Mention an example of a mountain range",
+      "End with why mountains are important"
+    ]
+  },
+  {
+    "lesson_name": "How Water Travels Through a River",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how water flows from high places to lower areas, forming rivers.",
+    "preparation_guidelines": [
+      "Say where rivers start",
+      "Explain how water moves",
+      "Mention what rivers pass by",
+      "End with a river example"
+    ]
+  },
+  {
+    "lesson_name": "Why Recycling Metal Matters",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how recycling metal saves energy and reduces environmental waste.",
+    "preparation_guidelines": [
+      "Say what items use metal",
+      "Explain how metal is reused",
+      "Mention why recycling metal helps Earth",
+      "End with a simple action step"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Use Their Wings",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how different wing shapes help birds fly, glide, or hover.",
+    "preparation_guidelines": [
+      "Mention bird wing shapes",
+      "Explain how wings create lift",
+      "Give an example of a bird’s flight style",
+      "End with a nature detail"
+    ]
+  },
+  {
+    "lesson_name": "How Seeds Become Plants",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Explain the stages a seed goes through as it becomes a growing plant.",
+    "preparation_guidelines": [
+      "Say what seeds need",
+      "Describe sprouting",
+      "Mention roots and stems",
+      "End with why plant growth matters"
+    ]
+  },
+  {
+    "lesson_name": "Why We Should Conserve Water",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Share why saving water is important for people, animals, and nature.",
+    "preparation_guidelines": [
+      "Say why water is limited",
+      "Mention how people use water",
+      "Explain how waste affects nature",
+      "End with a conservation tip"
+    ]
+  },
+  {
+    "lesson_name": "How Clouds Help Predict Weather",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how different cloud types can show upcoming weather conditions.",
+    "preparation_guidelines": [
+      "Name a few cloud types",
+      "Explain what each type might mean",
+      "Mention weather changes",
+      "End with a weather example"
+    ]
+  },
+  {
+    "lesson_name": "How Our Heart Pumps Blood",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how the heart sends blood around the body to keep us alive.",
+    "preparation_guidelines": [
+      "Say what the heart does",
+      "Describe blood flow simply",
+      "Mention why oxygen is important",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Shadows Are Created",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how blocking light creates a shadow on the ground or wall.",
+    "preparation_guidelines": [
+      "Say what makes a shadow",
+      "Explain how light moves",
+      "Describe how shadow size changes",
+      "End with a simple example"
+    ]
+  },
+  {
+    "lesson_name": "Why Teamwork Helps Everyone Succeed",
+    "grade": 4,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how working together makes tasks easier and more enjoyable.",
+    "preparation_guidelines": [
+      "Say what teamwork means",
+      "Give an example",
+      "Explain how teamwork builds trust",
+      "End with an encouragement message"
+    ]
+  },
+  {
+    "lesson_name": "How the Water Cycle Works",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how water moves through evaporation, condensation, and precipitation.",
+    "preparation_guidelines": [
+      "Say what evaporation is",
+      "Mention how clouds form",
+      "Describe rainfall",
+      "End with why the cycle matters"
+    ]
+  },
+  {
+    "lesson_name": "How Erosion Changes Land",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how wind and water slowly wear away rock and soil.",
+    "preparation_guidelines": [
+      "Explain what erosion means",
+      "Give an example of erosion",
+      "Mention where erosion happens",
+      "End with a real-world example"
+    ]
+  },
+  {
+    "lesson_name": "How Muscles and Bones Work Together",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how muscles pull on bones to help us move.",
+    "preparation_guidelines": [
+      "Say what muscles do",
+      "Describe how bones support us",
+      "Explain how they work as a team",
+      "End with a movement example"
+    ]
+  },
+  {
+    "lesson_name": "How Solar Panels Collect Energy",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how solar panels capture sunlight and turn it into electricity.",
+    "preparation_guidelines": [
+      "Say what solar panels are",
+      "Explain how they use sunlight",
+      "Mention where they are used",
+      "End with an energy-saving reason"
+    ]
+  },
+  {
+    "lesson_name": "Why Healthy Habits Help Us Grow",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how daily habits like eating well and exercising improve health.",
+    "preparation_guidelines": [
+      "Say what a healthy habit is",
+      "Give an example",
+      "Explain how habits help the body",
+      "End with a positive reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Pollination Works",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how pollen moves from flower to flower to help plants grow fruit and seeds.",
+    "preparation_guidelines": [
+      "Say what pollen is",
+      "Explain how insects help",
+      "Mention why pollination is important",
+      "End with a nature message"
+    ]
+  },
+  {
+    "lesson_name": "How Bicycles Use Simple Machines",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how gears, wheels, and pedals help bicycles move smoothly.",
+    "preparation_guidelines": [
+      "Name simple machines on a bike",
+      "Explain how each helps",
+      "Mention how motion is created",
+      "End with a biking tip"
+    ]
+  },
+  {
+    "lesson_name": "Why We Show Empathy",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how understanding others’ feelings helps us build better relationships.",
+    "preparation_guidelines": [
+      "Say what empathy means",
+      "Give an example",
+      "Explain how it helps friendships",
+      "End with a kindness reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Maps Show Directions",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how maps use symbols and markers to show directions and places.",
+    "preparation_guidelines": [
+      "Mention map symbols",
+      "Explain how maps guide us",
+      "Give a simple example",
+      "End with a navigation tip"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Tools Work",
+    "grade": 4,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how tools like thermometers and wind vanes help predict weather.",
+    "preparation_guidelines": [
+      "Name a weather tool",
+      "Say what it measures",
+      "Explain how it helps forecasting",
+      "End with a weather fact"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Plates Shape the Planet",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how Earth’s shifting plates create mountains, earthquakes, and volcanoes.",
+    "preparation_guidelines": [
+      "Say what tectonic plates are",
+      "Explain how they move",
+      "Give one example of plate changes",
+      "End with a safety or science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Photosynthesis Helps Plants Survive",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how plants make food using sunlight, air, and water.",
+    "preparation_guidelines": [
+      "Name what plants need",
+      "Describe how leaves help",
+      "Mention why photosynthesis matters",
+      "End with a nature example"
+    ]
+  },
+  {
+    "lesson_name": "How Communities Use Resources Wisely",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Share how communities manage water, energy, and land responsibly.",
+    "preparation_guidelines": [
+      "Name a community resource",
+      "Explain how it is used",
+      "Mention why conservation matters",
+      "End with an improvement idea"
+    ]
+  },
+  {
+    "lesson_name": "How Electricity Travels Through Wires",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how electric current moves through wires to power devices.",
+    "preparation_guidelines": [
+      "Say what electricity is",
+      "Describe how it flows",
+      "Mention how circuits work",
+      "End with a safety reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Humans Adapt to Different Environments",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how people around the world adapt to climate, food, and culture.",
+    "preparation_guidelines": [
+      "Mention one environment",
+      "Explain how people adapt",
+      "Give a cultural example",
+      "End with respect for diversity"
+    ]
+  },
+  {
+    "lesson_name": "How Rainforests Support Biodiversity",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Explain why rainforests are home to so many plants and animals.",
+    "preparation_guidelines": [
+      "Say what biodiversity means",
+      "Mention rainforest layers",
+      "Give an example of a species",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Sound Travels",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how vibrations move through air or objects to create sound.",
+    "preparation_guidelines": [
+      "Say what vibrations are",
+      "Explain how sound moves",
+      "Give an example",
+      "End with a science note"
+    ]
+  },
+  {
+    "lesson_name": "How Cultures Use Storytelling",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how different cultures share stories to teach values and history.",
+    "preparation_guidelines": [
+      "Mention a cultural story type",
+      "Explain why stories matter",
+      "Give a teaching example",
+      "End with a respect message"
+    ]
+  },
+  {
+    "lesson_name": "How Pollution Affects the Environment",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how pollution harms air, water, and land.",
+    "preparation_guidelines": [
+      "Name one type of pollution",
+      "Explain how it happens",
+      "Mention its effects",
+      "End with a solution idea"
+    ]
+  },
+  {
+    "lesson_name": "How Leaders Solve Problems",
+    "grade": 4,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how leaders listen, plan, and work with others to fix challenges.",
+    "preparation_guidelines": [
+      "Say what problem-solving means",
+      "Give an example",
+      "Explain why teamwork matters",
+      "End with an inspiring message"
+    ]
+  },
+  {
+    "lesson_name": "How Weathering Breaks Down Rocks",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how wind, rain, and temperature changes slowly break rocks into smaller pieces.",
+    "preparation_guidelines": [
+      "Say what weathering means",
+      "Mention wind or water effects",
+      "Describe how rocks crack or crumble",
+      "End with a natural example"
+    ]
+  },
+  {
+    "lesson_name": "How Birds Build Nests",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how birds collect materials and shape nests for their eggs.",
+    "preparation_guidelines": [
+      "Name nest materials",
+      "Explain how birds build",
+      "Mention why nests are important",
+      "End with a calming nature note"
+    ]
+  },
+  {
+    "lesson_name": "How Clouds Form in the Atmosphere",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how warm air and water vapor rise and create clouds.",
+    "preparation_guidelines": [
+      "Say what water vapor is",
+      "Describe rising warm air",
+      "Explain droplet formation",
+      "End with a sky observation"
+    ]
+  },
+  {
+    "lesson_name": "Why Handwashing Protects Our Health",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Share why washing hands removes germs and prevents illness.",
+    "preparation_guidelines": [
+      "Say what germs are",
+      "Mention when to wash hands",
+      "Explain how washing prevents sickness",
+      "End with a healthy reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Bicycles Use Chains and Gears",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how the chain and gears work together to help a bike move smoothly.",
+    "preparation_guidelines": [
+      "Name gears and chains",
+      "Explain how pedaling turns the chain",
+      "Mention how gears change speed",
+      "End with a biking tip"
+    ]
+  },
+  {
+    "lesson_name": "How Rainbows Form After Rain",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how sunlight bends through raindrops to create colorful rainbows.",
+    "preparation_guidelines": [
+      "Say why sunlight bends",
+      "Describe how colors appear",
+      "Mention when rainbows show up",
+      "End with a nature moment"
+    ]
+  },
+  {
+    "lesson_name": "How Animals Communicate Through Body Language",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Share how animals use movement and posture to send messages to one another.",
+    "preparation_guidelines": [
+      "Mention one animal behavior",
+      "Explain what it signals",
+      "Give a safe example",
+      "End with appreciation for wildlife"
+    ]
+  },
+  {
+    "lesson_name": "Why We Need Clean Air",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Describe why clean air helps people, plants, and animals stay healthy.",
+    "preparation_guidelines": [
+      "Say why air is important",
+      "Mention what pollutes air",
+      "Explain how pollution harms life",
+      "End with a care-for-nature action"
+    ]
+  },
+  {
+    "lesson_name": "How Leaves Change Color in Fall",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how shorter days and less sunlight cause leaves to reveal their hidden colors.",
+    "preparation_guidelines": [
+      "Say what leaves need",
+      "Mention why green fades",
+      "Explain color changes",
+      "End with a seasonal observation"
+    ]
+  },
+  {
+    "lesson_name": "Why We Practice Mindfulness",
+    "grade": 5,
+    "difficulty": "EASY",
+    "topic_overview": "Share how mindfulness helps us calm our thoughts and understand our feelings.",
+    "preparation_guidelines": [
+      "Say what mindfulness means",
+      "Describe a simple practice",
+      "Explain how it helps the mind",
+      "End with an encouraging reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Tides Are Formed by the Moon",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how the Moon’s gravity pulls ocean water, creating high and low tides.",
+    "preparation_guidelines": [
+      "Say what gravity is",
+      "Describe the Moon’s pull",
+      "Mention high vs. low tide",
+      "End with an ocean example"
+    ]
+  },
+  {
+    "lesson_name": "How Soil Is Made from Organic Matter",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how decomposed plants and animals help create rich soil.",
+    "preparation_guidelines": [
+      "Say what organic matter is",
+      "Explain decomposition",
+      "Mention why soil nutrients matter",
+      "End with a growth example"
+    ]
+  },
+  {
+    "lesson_name": "How the Respiratory System Works",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how our lungs take in oxygen and release carbon dioxide.",
+    "preparation_guidelines": [
+      "Say what lungs do",
+      "Describe air moving in and out",
+      "Explain gas exchange simply",
+      "End with a health note"
+    ]
+  },
+  {
+    "lesson_name": "How Ancient Civilizations Built Structures",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how early cultures used materials and tools to build lasting structures.",
+    "preparation_guidelines": [
+      "Name one early civilization",
+      "Mention a building material",
+      "Explain a building method",
+      "End with a historical insight"
+    ]
+  },
+  {
+    "lesson_name": "Why Oceans Are Important for Earth’s Climate",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how oceans store heat and influence weather around the world.",
+    "preparation_guidelines": [
+      "Say how oceans hold heat",
+      "Describe movement of warm/cool water",
+      "Mention an effect on climate",
+      "End with a real-world example"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Sources Work",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how energy from wind, water, or the sun is turned into power.",
+    "preparation_guidelines": [
+      "Name a renewable source",
+      "Explain how it collects energy",
+      "Mention how it reduces pollution",
+      "End with a future-focused remark"
+    ]
+  },
+  {
+    "lesson_name": "How Stories Preserve Cultural Traditions",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how storytelling keeps history, values, and beliefs alive.",
+    "preparation_guidelines": [
+      "Say why stories matter",
+      "Mention a cultural tradition",
+      "Explain how stories are passed down",
+      "End with a respect message"
+    ]
+  },
+  {
+    "lesson_name": "How Art Expresses Feelings",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how colors, shapes, and lines help artists show emotions.",
+    "preparation_guidelines": [
+      "Mention art elements",
+      "Describe how they express feeling",
+      "Give an example",
+      "End with a creativity reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Good Nutrition Helps the Brain",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how healthy foods support memory, energy, and focus.",
+    "preparation_guidelines": [
+      "Name nutrients the brain needs",
+      "Explain how food supports thinking",
+      "Give a simple habit",
+      "End with a wellness tip"
+    ]
+  },
+  {
+    "lesson_name": "How Maps Represent Earth’s Surface",
+    "grade": 5,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how maps use scale, symbols, and compass directions to show places.",
+    "preparation_guidelines": [
+      "Mention symbols",
+      "Describe scale or direction",
+      "Give a usage example",
+      "End with a navigation insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ecosystems Stay in Balance",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how plants, animals, and the environment depend on each other to stay balanced.",
+    "preparation_guidelines": [
+      "Say what an ecosystem is",
+      "Describe a dependency",
+      "Mention what happens when balance breaks",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Rotation and Orbit Affect Climate",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how Earth’s movement influences temperature and daylight.",
+    "preparation_guidelines": [
+      "Mention rotation vs. orbit",
+      "Explain how seasons shift",
+      "Give a climate effect",
+      "End with a global example"
+    ]
+  },
+  {
+    "lesson_name": "How the Digestive System Breaks Down Food",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how the body turns food into energy and nutrients.",
+    "preparation_guidelines": [
+      "Name key organs",
+      "Describe how food breaks down",
+      "Mention nutrient absorption",
+      "End with a healthy habit"
+    ]
+  },
+  {
+    "lesson_name": "How Human Cultures Develop Over Time",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Share how communities change languages, traditions, and lifestyles through history.",
+    "preparation_guidelines": [
+      "Mention one cultural change",
+      "Explain why changes occur",
+      "Give an example",
+      "End with appreciation for diversity"
+    ]
+  },
+  {
+    "lesson_name": "How Electricity Powers Homes",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how electricity travels from power plants to homes through wires.",
+    "preparation_guidelines": [
+      "Mention generation",
+      "Explain transmission",
+      "Describe how homes receive power",
+      "End with a safety reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Change Impacts Ecosystems",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how rising temperatures affect plants, animals, and habitats.",
+    "preparation_guidelines": [
+      "Mention a climate effect",
+      "Explain a species impact",
+      "Give a habitat example",
+      "End with an action idea"
+    ]
+  },
+  {
+    "lesson_name": "How Innovations Shape Society",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how new tools and inventions change how people live and work.",
+    "preparation_guidelines": [
+      "Name an innovation",
+      "Describe its purpose",
+      "Explain its social impact",
+      "End with a forward-looking note"
+    ]
+  },
+  {
+    "lesson_name": "How Human Emotions Influence Decisions",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Share how feelings guide choices and affect our relationships.",
+    "preparation_guidelines": [
+      "Say what emotions do",
+      "Give an example of emotional decision-making",
+      "Explain how awareness helps",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Historical Events Lead to Change",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how important events shape laws, rights, or communities.",
+    "preparation_guidelines": [
+      "Mention one historical change",
+      "Describe its cause",
+      "Explain its effects",
+      "End with a reflection question"
+    ]
+  },
+  {
+    "lesson_name": "How the Scientific Method Helps Solve Problems",
+    "grade": 5,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how scientists use steps like questioning and testing to find answers.",
+    "preparation_guidelines": [
+      "Name key steps",
+      "Explain how testing works",
+      "Give an investigation example",
+      "End with a curiosity message"
+    ]
+  },
+  {
+    "lesson_name": "How the Sun Heats Earth",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how sunlight warms Earth’s land, water, and air.",
+    "preparation_guidelines": [
+      "Say how sunlight reaches Earth",
+      "Explain how different surfaces warm",
+      "Mention warming of air",
+      "End with a real-world example"
+    ]
+  },
+  {
+    "lesson_name": "How Compost Helps Plants Grow",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how decomposed food scraps and leaves create nutrient-rich compost.",
+    "preparation_guidelines": [
+      "Say what compost is",
+      "Explain decomposition",
+      "Mention why compost helps soil",
+      "End with a gardening insight"
+    ]
+  },
+  {
+    "lesson_name": "How Simple Bridges Stay Strong",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how shapes like arches and triangles help bridges hold weight.",
+    "preparation_guidelines": [
+      "Name a bridge shape",
+      "Explain why it is strong",
+      "Mention weight distribution",
+      "End with a safety note"
+    ]
+  },
+  {
+    "lesson_name": "How Whales Communicate Underwater",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how whales use sound waves to communicate across long distances.",
+    "preparation_guidelines": [
+      "Say what whale sounds are",
+      "Explain how sound travels",
+      "Mention whale communication",
+      "End with an ocean example"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Maps Work",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how symbols on weather maps show temperature, wind, and storms.",
+    "preparation_guidelines": [
+      "Mention map symbols",
+      "Explain how they show conditions",
+      "Describe how forecasters use maps",
+      "End with a weather insight"
+    ]
+  },
+  {
+    "lesson_name": "How Recycling Paper Saves Trees",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Share how turning old paper into new paper protects forests.",
+    "preparation_guidelines": [
+      "Say what paper is made from",
+      "Explain how paper can be recycled",
+      "Mention why trees matter",
+      "End with a recycling action"
+    ]
+  },
+  {
+    "lesson_name": "How Muscles Respond to Exercise",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how muscles grow stronger when used regularly.",
+    "preparation_guidelines": [
+      "Name a muscle group",
+      "Explain how exercise affects muscles",
+      "Mention rest and recovery",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Rain Creates Streams and Rivers",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how rain collects and flows downhill to form streams and rivers.",
+    "preparation_guidelines": [
+      "Say what runoff is",
+      "Describe flowing water",
+      "Mention how streams grow",
+      "End with a nature observation"
+    ]
+  },
+  {
+    "lesson_name": "How People Use Braille to Read",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Share how raised dots help visually impaired people read with their fingers.",
+    "preparation_guidelines": [
+      "Say what Braille is",
+      "Explain how dots show letters",
+      "Mention who uses Braille",
+      "End with an inclusion message"
+    ]
+  },
+  {
+    "lesson_name": "How Batteries Store Energy",
+    "grade": 6,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how batteries hold chemical energy and release it as electricity.",
+    "preparation_guidelines": [
+      "Say what batteries do",
+      "Explain stored energy simply",
+      "Mention devices that use batteries",
+      "End with a safety reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Atmosphere Protects Us",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how layers of the atmosphere block harmful rays and hold important gases.",
+    "preparation_guidelines": [
+      "Name one layer",
+      "Explain how it protects",
+      "Mention gases needed for life",
+      "End with an Earth appreciation note"
+    ]
+  },
+  {
+    "lesson_name": "How Photosynthesis Supports Food Chains",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how plants turn sunlight into energy that supports all life.",
+    "preparation_guidelines": [
+      "Say what photosynthesis does",
+      "Mention energy transfer",
+      "Give an example",
+      "End with an ecosystem insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ancient Trade Routes Connected People",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how early trade routes helped cultures exchange goods and ideas.",
+    "preparation_guidelines": [
+      "Name a trade route",
+      "Mention goods traded",
+      "Explain cultural exchange",
+      "End with historical reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Wind Turbines Generate Electricity",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how spinning blades capture wind energy and turn it into power.",
+    "preparation_guidelines": [
+      "Say how blades spin",
+      "Mention energy transfer",
+      "Describe electricity production",
+      "End with a renewable energy example"
+    ]
+  },
+  {
+    "lesson_name": "How Emotions Influence Group Decisions",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how feelings shape discussions and teamwork.",
+    "preparation_guidelines": [
+      "Say what emotional awareness is",
+      "Give a group example",
+      "Explain why calm decision-making helps",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Rivers Shape Land Over Time",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how running water carves valleys and moves sediment.",
+    "preparation_guidelines": [
+      "Say how rivers erode",
+      "Mention sediment movement",
+      "Describe landform changes",
+      "End with a geographic example"
+    ]
+  },
+  {
+    "lesson_name": "How Governments Provide Public Services",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how governments support communities with services like roads and safety.",
+    "preparation_guidelines": [
+      "Name a public service",
+      "Explain why it is needed",
+      "Mention how communities benefit",
+      "End with civic responsibility"
+    ]
+  },
+  {
+    "lesson_name": "How Sound Waves Carry Information",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how vibrations turn into sound waves that send messages.",
+    "preparation_guidelines": [
+      "Say what vibrations are",
+      "Describe how waves travel",
+      "Give a communication example",
+      "End with a science reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Nutrition Affects Physical Development",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how vitamins, minerals, and balanced meals support healthy growth.",
+    "preparation_guidelines": [
+      "Name key nutrients",
+      "Explain how they support growth",
+      "Give a food example",
+      "End with a wellness reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Technology Helps Us Solve Problems Faster",
+    "grade": 6,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how innovations make communication, travel, and research more efficient.",
+    "preparation_guidelines": [
+      "Name a modern tool",
+      "Explain how it improves tasks",
+      "Give a real-world example",
+      "End with a future-thinking insight"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Systems Interact",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how the atmosphere, geosphere, hydrosphere, and biosphere depend on one another.",
+    "preparation_guidelines": [
+      "Name Earth’s systems",
+      "Describe one interaction",
+      "Mention an example",
+      "End with a systems-thinking insight"
+    ]
+  },
+  {
+    "lesson_name": "How Human Activities Influence Climate",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how energy use, pollution, and land changes affect global temperatures.",
+    "preparation_guidelines": [
+      "Mention a human action",
+      "Explain its climate impact",
+      "Provide an example",
+      "End with a responsibility message"
+    ]
+  },
+  {
+    "lesson_name": "How Microorganisms Affect Health",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how helpful and harmful microorganisms influence our bodies.",
+    "preparation_guidelines": [
+      "Name a beneficial microbe",
+      "Mention a harmful one",
+      "Explain how they interact",
+      "End with a hygiene note"
+    ]
+  },
+  {
+    "lesson_name": "How Civilizations Develop Governments",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how early societies formed rules, leaders, and systems of order.",
+    "preparation_guidelines": [
+      "Name an ancient civilization",
+      "Describe its governing method",
+      "Mention why order was needed",
+      "End with a historical insight"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Identity Shapes Communities",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Share how shared language, traditions, and beliefs strengthen community bonds.",
+    "preparation_guidelines": [
+      "Name a cultural element",
+      "Explain how it shapes identity",
+      "Give a community example",
+      "End with respect for diversity"
+    ]
+  },
+  {
+    "lesson_name": "How Energy Transfers Through Food Webs",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how energy moves from producers to consumers through a web of life.",
+    "preparation_guidelines": [
+      "Name producers and consumers",
+      "Describe energy transfer",
+      "Give an example",
+      "End with an ecosystem message"
+    ]
+  },
+  {
+    "lesson_name": "How Technological Change Impacts Careers",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how new technologies create, change, or replace jobs.",
+    "preparation_guidelines": [
+      "Mention a technological shift",
+      "Explain how it affects work",
+      "Give a career example",
+      "End with a future-oriented thought"
+    ]
+  },
+  {
+    "lesson_name": "How Water Scarcity Affects Communities",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how limited water supplies influence health, farming, and daily life.",
+    "preparation_guidelines": [
+      "Mention causes of scarcity",
+      "Describe a community effect",
+      "Give an example",
+      "End with a conservation idea"
+    ]
+  },
+  {
+    "lesson_name": "How Critical Thinking Improves Decisions",
+    "grade": 6,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how evaluating information helps people make wiser choices.",
+    "preparation_guidelines": [
+      "Say why evaluation matters",
+      "Mention comparing options",
+      "Give a simple real-life example",
+      "End with an SEL skill reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Layers Are Structured",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Describe the crust, mantle, and core and how each layer is different.",
+    "preparation_guidelines": [
+      "Name the three main layers",
+      "Explain one key feature of each",
+      "Mention how layers support Earth’s structure",
+      "End with a simple comparison"
+    ]
+  },
+  {
+    "lesson_name": "How Water Moves Through Soil",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how water travels through different soil types at different speeds.",
+    "preparation_guidelines": [
+      "Name soil types",
+      "Describe how water passes through",
+      "Mention why this matters for plants",
+      "End with a garden example"
+    ]
+  },
+  {
+    "lesson_name": "How Wind Is Created",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Share how differences in air temperature and pressure create wind.",
+    "preparation_guidelines": [
+      "Say what warm air does",
+      "Say what cool air does",
+      "Explain how movement forms wind",
+      "End with a weather example"
+    ]
+  },
+  {
+    "lesson_name": "How the Heart and Lungs Work Together",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how the heart and lungs team up to deliver oxygen throughout the body.",
+    "preparation_guidelines": [
+      "Say what the lungs do",
+      "Say what the heart does",
+      "Explain oxygen transport",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Maps Show Climate Regions",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how climate maps use colors and symbols to show temperature and rainfall.",
+    "preparation_guidelines": [
+      "Mention map colors",
+      "Explain climate categories",
+      "Give an example",
+      "End with a geography insight"
+    ]
+  },
+  {
+    "lesson_name": "How Recycling Plastic Reduces Pollution",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how reusing plastic lowers waste and protects wildlife.",
+    "preparation_guidelines": [
+      "Say what plastic is used for",
+      "Explain how recycling helps",
+      "Mention environmental benefits",
+      "End with a simple action step"
+    ]
+  },
+  {
+    "lesson_name": "How Our Brain Sends Signals",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how the brain uses nerves to send messages through the body.",
+    "preparation_guidelines": [
+      "Say what nerves are",
+      "Describe how signals travel",
+      "Mention a body reaction example",
+      "End with a quick science fact"
+    ]
+  },
+  {
+    "lesson_name": "How Rainfall Shapes Landscapes",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Share how heavy or light rainfall changes soil, plants, and landforms.",
+    "preparation_guidelines": [
+      "Say what rainfall does",
+      "Mention erosion or growth",
+      "Explain a landscape change",
+      "End with a nature detail"
+    ]
+  },
+  {
+    "lesson_name": "How Calendars Organize Time",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how calendars divide time into days, weeks, months, and years.",
+    "preparation_guidelines": [
+      "Mention calendar parts",
+      "Explain why we track time",
+      "Give an example",
+      "End with a planning tip"
+    ]
+  },
+  {
+    "lesson_name": "How Positive Habits Improve Well-Being",
+    "grade": 7,
+    "difficulty": "EASY",
+    "topic_overview": "Share how habits like reading, resting, and staying active support emotional and physical health.",
+    "preparation_guidelines": [
+      "Name a positive habit",
+      "Explain its benefit",
+      "Mention how habits build over time",
+      "End with encouragement"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Fronts Create Storms",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how warm and cold air masses meet and form storm systems.",
+    "preparation_guidelines": [
+      "Say what a front is",
+      "Describe warm vs. cold air",
+      "Mention storm formation",
+      "End with a weather insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ancient Civilizations Shared Knowledge",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how writing, trade, and travel spread ideas across regions.",
+    "preparation_guidelines": [
+      "Name a civilization",
+      "Mention a knowledge-sharing method",
+      "Give an example",
+      "End with a historical reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Muscles Use Energy",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how muscles burn nutrients to create movement.",
+    "preparation_guidelines": [
+      "Say what muscles need",
+      "Describe energy use",
+      "Mention movement",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Reduces Carbon Emissions",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how clean energy sources lower pollution and support sustainability.",
+    "preparation_guidelines": [
+      "Name a renewable source",
+      "Explain carbon emissions",
+      "Describe environmental benefits",
+      "End with a future statement"
+    ]
+  },
+  {
+    "lesson_name": "How Literature Reflects Culture",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how stories capture traditions, beliefs, and values of a community.",
+    "preparation_guidelines": [
+      "Mention a cultural theme",
+      "Describe how literature represents it",
+      "Give an example",
+      "End with a respect message"
+    ]
+  },
+  {
+    "lesson_name": "How Erosion and Deposition Shape Landforms",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how materials move and settle to create new land features.",
+    "preparation_guidelines": [
+      "Say what erosion is",
+      "Say what deposition is",
+      "Give an example",
+      "End with a geography insight"
+    ]
+  },
+  {
+    "lesson_name": "How Technology Enhances Communication",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how modern tools help people share information quickly and widely.",
+    "preparation_guidelines": [
+      "Mention a communication tool",
+      "Describe how it works",
+      "Explain its benefit",
+      "End with a forward-looking remark"
+    ]
+  },
+  {
+    "lesson_name": "How Emotions Influence Decision-Making",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how feelings affect choices and judgment.",
+    "preparation_guidelines": [
+      "Say why emotions matter",
+      "Mention a decision example",
+      "Explain emotional awareness",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Water Resources Are Managed",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how communities conserve and distribute water.",
+    "preparation_guidelines": [
+      "Mention water sources",
+      "Describe conservation",
+      "Give a real-world example",
+      "End with a civic message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Theories Develop",
+    "grade": 7,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how evidence and observation help build scientific theories.",
+    "preparation_guidelines": [
+      "Say what a theory is",
+      "Mention testing and evidence",
+      "Give a science example",
+      "End with a curiosity note"
+    ]
+  },
+  {
+    "lesson_name": "How Atmospheric Pressure Influences Weather",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how high and low pressure systems lead to storms, winds, and clear skies.",
+    "preparation_guidelines": [
+      "Define air pressure",
+      "Explain high vs. low systems",
+      "Mention weather effects",
+      "End with a forecasting idea"
+    ]
+  },
+  {
+    "lesson_name": "How Human Migration Shapes Cultural Diversity",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how movement of people spreads customs, languages, and traditions globally.",
+    "preparation_guidelines": [
+      "Mention a migration reason",
+      "Describe cultural exchange",
+      "Give an example",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Chemical Reactions Form New Substances",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Share how atoms rearrange during chemical reactions to create new materials.",
+    "preparation_guidelines": [
+      "Mention reactants and products",
+      "Describe rearrangement",
+      "Give a reaction example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Societies Develop Economic Systems",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how communities create systems for producing and sharing resources.",
+    "preparation_guidelines": [
+      "Name a type of system",
+      "Describe its purpose",
+      "Give an example",
+      "End with a reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Technology Impacts Global Connections",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how digital tools link people across countries for work, learning, and culture.",
+    "preparation_guidelines": [
+      "Mention a global tool",
+      "Explain its role",
+      "Give a connection example",
+      "End with a future-oriented idea"
+    ]
+  },
+  {
+    "lesson_name": "How Biodiversity Strengthens Ecosystems",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how having many species helps environments stay balanced and resilient.",
+    "preparation_guidelines": [
+      "Say what biodiversity means",
+      "Describe its benefits",
+      "Give an example",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Historical Events Shape Modern Beliefs",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Share how important events influence laws, values, and social movements today.",
+    "preparation_guidelines": [
+      "Name an event",
+      "Describe its impact",
+      "Mention a modern change",
+      "End with a thoughtful insight"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Resources Must Be Managed",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how resources like forests and water require careful use over time.",
+    "preparation_guidelines": [
+      "Name a renewable resource",
+      "Describe how it is used",
+      "Explain why management matters",
+      "End with a sustainability idea"
+    ]
+  },
+  {
+    "lesson_name": "How the Nervous System Coordinates the Body",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Share how the brain and nerves work together to control movement and responses.",
+    "preparation_guidelines": [
+      "Mention brain functions",
+      "Describe nerve pathways",
+      "Give a coordination example",
+      "End with a science reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Critical Thinking Supports Fair Judgment",
+    "grade": 7,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how analyzing evidence helps people avoid biases and make clearer decisions.",
+    "preparation_guidelines": [
+      "Say why critical thinking is needed",
+      "Mention evidence evaluation",
+      "Give an example of judgment",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Oceans Influence Weather",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how warm and cold ocean currents help shape global weather patterns.",
+    "preparation_guidelines": [
+      "Say what ocean currents are",
+      "Mention temperature changes",
+      "Explain how currents affect air",
+      "End with a weather example"
+    ]
+  },
+  {
+    "lesson_name": "How Photosynthesis Supports Life on Earth",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how photosynthesis produces oxygen and energy for living things.",
+    "preparation_guidelines": [
+      "Say what plants take in",
+      "Mention what they release",
+      "Explain energy creation",
+      "End with an ecosystem insight"
+    ]
+  },
+  {
+    "lesson_name": "How Simple Machines Reduce Effort",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Share how levers, pulleys, and wheels make work easier by changing force.",
+    "preparation_guidelines": [
+      "Name a simple machine",
+      "Explain how it reduces effort",
+      "Give an everyday example",
+      "End with a practical note"
+    ]
+  },
+  {
+    "lesson_name": "How the Water Cycle Purifies Water Naturally",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how evaporation and condensation help clean water.",
+    "preparation_guidelines": [
+      "Explain evaporation",
+      "Explain condensation",
+      "Mention natural purification",
+      "End with an environmental connection"
+    ]
+  },
+  {
+    "lesson_name": "How Cells Are the Building Blocks of Life",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how cells form tissues and organs in living organisms.",
+    "preparation_guidelines": [
+      "Say what cells are",
+      "Mention tissues and organs",
+      "Explain how structures connect",
+      "End with a science fact"
+    ]
+  },
+  {
+    "lesson_name": "How Light Travels and Creates Shadows",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how light moves in straight lines and forms shadows when blocked.",
+    "preparation_guidelines": [
+      "Mention light movement",
+      "Explain blocking objects",
+      "Give a shadow example",
+      "End with a simple comparison"
+    ]
+  },
+  {
+    "lesson_name": "How Positive Communication Builds Friendships",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Share how listening, respect, and kindness strengthen friendships.",
+    "preparation_guidelines": [
+      "Mention active listening",
+      "Describe respectful responses",
+      "Give a friendship example",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Recycling Glass Helps the Environment",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how melting and reusing glass saves resources.",
+    "preparation_guidelines": [
+      "Say how glass is made",
+      "Explain how it’s recycled",
+      "Mention environmental benefits",
+      "End with a conservation step"
+    ]
+  },
+  {
+    "lesson_name": "How Earthquakes Are Measured",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how scientists record earthquake strength and ground movement.",
+    "preparation_guidelines": [
+      "Say what instruments measure",
+      "Mention the scale used",
+      "Explain shaking levels",
+      "End with a safety note"
+    ]
+  },
+  {
+    "lesson_name": "How Culture Influences Food Traditions",
+    "grade": 8,
+    "difficulty": "EASY",
+    "topic_overview": "Share how foods reflect history, geography, and family customs.",
+    "preparation_guidelines": [
+      "Mention a cultural dish",
+      "Explain how traditions shape food",
+      "Give a simple example",
+      "End with a respect message"
+    ]
+  },
+  {
+    "lesson_name": "How Atmospheric Layers Support Life",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how different layers of the atmosphere protect Earth and regulate temperature.",
+    "preparation_guidelines": [
+      "Name one layer",
+      "Explain its purpose",
+      "Mention protection or temperature control",
+      "End with a planetary insight"
+    ]
+  },
+  {
+    "lesson_name": "How Historical Trade Shaped Civilizations",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how exchanging goods and ideas changed cultures and technology.",
+    "preparation_guidelines": [
+      "Name a trade route",
+      "Mention goods traded",
+      "Explain cultural exchange",
+      "End with a history message"
+    ]
+  },
+  {
+    "lesson_name": "How the Human Digestive System Processes Nutrients",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how food moves through organs and becomes usable energy.",
+    "preparation_guidelines": [
+      "Name key organs",
+      "Explain nutrient breakdown",
+      "Mention absorption",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Supports Sustainability",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how clean energy reduces pollution and protects natural resources.",
+    "preparation_guidelines": [
+      "Name a renewable source",
+      "Explain energy creation",
+      "Mention environmental benefits",
+      "End with a future-focused note"
+    ]
+  },
+  {
+    "lesson_name": "How Literature Helps Us Understand Human Experiences",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how stories reflect emotions, challenges, and growth.",
+    "preparation_guidelines": [
+      "Mention a theme",
+      "Explain how literature shows it",
+      "Give an example",
+      "End with an SEL insight"
+    ]
+  },
+  {
+    "lesson_name": "How Weathering and Erosion Shape Earth’s Surface",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how rocks break down and move to create new landforms.",
+    "preparation_guidelines": [
+      "Explain weathering",
+      "Explain erosion",
+      "Give a landform example",
+      "End with a geography fact"
+    ]
+  },
+  {
+    "lesson_name": "How Communication Technology Has Evolved",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how tools from letters to smartphones changed how people connect.",
+    "preparation_guidelines": [
+      "Mention early communication",
+      "Describe modern tools",
+      "Explain improvements",
+      "End with a forward-looking statement"
+    ]
+  },
+  {
+    "lesson_name": "How Emotions Affect Group Cooperation",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how emotional awareness supports teamwork and problem-solving.",
+    "preparation_guidelines": [
+      "Mention emotional cues",
+      "Explain team impact",
+      "Give a group example",
+      "End with a cooperation tip"
+    ]
+  },
+  {
+    "lesson_name": "How Financial Literacy Supports Independence",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how budgeting and saving help people manage resources wisely.",
+    "preparation_guidelines": [
+      "Name a financial skill",
+      "Explain why it matters",
+      "Give a simple example",
+      "End with a responsibility message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Models Represent Complex Systems",
+    "grade": 8,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how models help scientists test ideas and predict outcomes.",
+    "preparation_guidelines": [
+      "Name a type of model",
+      "Describe what it represents",
+      "Give an example",
+      "End with a science reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Climate System Interacts With the Oceans",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how heat exchange between oceans and atmosphere drives climate patterns.",
+    "preparation_guidelines": [
+      "Mention heat absorption",
+      "Explain air–water interaction",
+      "Give a climate influence example",
+      "End with a global insight"
+    ]
+  },
+  {
+    "lesson_name": "How Human Migration Influences Cultural Development",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how movement of people spreads languages, beliefs, and technologies.",
+    "preparation_guidelines": [
+      "Mention a migration cause",
+      "Describe cultural blending",
+      "Give an example",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Chemical Reactions Follow the Law of Conservation of Mass",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how mass stays constant even when substances change form.",
+    "preparation_guidelines": [
+      "Name the law",
+      "Explain rearranging atoms",
+      "Give a simple reaction example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Economic Systems Respond to Scarcity",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how societies make choices when resources are limited.",
+    "preparation_guidelines": [
+      "Define scarcity",
+      "Mention decision-making",
+      "Give an example",
+      "End with an economic reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Technology Shapes Global Communities",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how online platforms and tools connect people across cultures.",
+    "preparation_guidelines": [
+      "Mention a digital tool",
+      "Explain its global impact",
+      "Give an example",
+      "End with a future consideration"
+    ]
+  },
+  {
+    "lesson_name": "How Biodiversity Strengthens Environmental Stability",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how diverse species keep ecosystems functioning and resilient.",
+    "preparation_guidelines": [
+      "Define biodiversity",
+      "Describe stability benefits",
+      "Give a species example",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Revolutions Lead to Political and Social Change",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Share how major uprisings reshape governments and societies.",
+    "preparation_guidelines": [
+      "Mention a revolution",
+      "Explain its cause",
+      "Describe its long-term effects",
+      "End with a reflective insight"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Resources Require Long-Term Planning",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how sustainable use of forests, water, and soil depends on careful management.",
+    "preparation_guidelines": [
+      "Name a renewable resource",
+      "Explain replenishment limits",
+      "Give a management example",
+      "End with sustainability awareness"
+    ]
+  },
+  {
+    "lesson_name": "How the Nervous and Endocrine Systems Work Together",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how both systems coordinate body responses using signals and hormones.",
+    "preparation_guidelines": [
+      "Mention nerve signals",
+      "Mention hormones",
+      "Explain how both interact",
+      "End with a science takeaway"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Reasoning Guides Fair Decisions",
+    "grade": 8,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how examining values and consequences helps create just choices.",
+    "preparation_guidelines": [
+      "Mention ethical reasoning",
+      "Describe weighing consequences",
+      "Give a real-life example",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Tilt Affects Seasons",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how Earth’s angled tilt causes changes in sunlight, creating seasons.",
+    "preparation_guidelines": [
+      "Mention Earth’s tilt",
+      "Describe sunlight differences",
+      "Give a seasonal example",
+      "End with a simple climate connection"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Satellites Collect Data",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how satellites observe clouds, storms, and temperatures from space.",
+    "preparation_guidelines": [
+      "Say what satellites detect",
+      "Explain how images help forecasts",
+      "Mention a weather event",
+      "End with a technology insight"
+    ]
+  },
+  {
+    "lesson_name": "How Vaccines Protect the Body",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how vaccines train the immune system to fight harmful germs.",
+    "preparation_guidelines": [
+      "Say what the immune system does",
+      "Explain how vaccines work",
+      "Mention benefits to communities",
+      "End with a health reminder"
+    ]
+  },
+  {
+    "lesson_name": "How the Water Table Changes Over Time",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how groundwater levels rise or fall depending on rainfall and usage.",
+    "preparation_guidelines": [
+      "Define the water table",
+      "Explain natural changes",
+      "Mention human impact",
+      "End with a conservation tip"
+    ]
+  },
+  {
+    "lesson_name": "How Cells Use Energy",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how cells use nutrients to create energy for growth and repair.",
+    "preparation_guidelines": [
+      "Mention nutrients",
+      "Describe energy production",
+      "Give an example of cell work",
+      "End with a biology insight"
+    ]
+  },
+  {
+    "lesson_name": "How Coral Reefs Support Ocean Life",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how coral reefs provide shelter and food for many species.",
+    "preparation_guidelines": [
+      "Say what coral reefs are",
+      "Mention species that depend on them",
+      "Explain why reefs are important",
+      "End with a conservation reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Active Listening Improves Understanding",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Share how focusing, responding, and clarifying help people communicate better.",
+    "preparation_guidelines": [
+      "Mention listening behaviors",
+      "Describe their purpose",
+      "Give a communication example",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Simple Chemical Bonds Form",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how atoms connect to form molecules through basic bonds.",
+    "preparation_guidelines": [
+      "Define atoms",
+      "Mention bond types simply",
+      "Give a molecule example",
+      "End with a science note"
+    ]
+  },
+  {
+    "lesson_name": "How Maps Show Population Patterns",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how population maps reveal where people live and why.",
+    "preparation_guidelines": [
+      "Mention density",
+      "Explain map symbols",
+      "Give an example",
+      "End with a geographic insight"
+    ]
+  },
+  {
+    "lesson_name": "How Exercise Benefits Mental Health",
+    "grade": 9,
+    "difficulty": "EASY",
+    "topic_overview": "Share how physical activity reduces stress and boosts mood.",
+    "preparation_guidelines": [
+      "Mention endorphins",
+      "Give an exercise example",
+      "Explain emotional benefits",
+      "End with encouragement"
+    ]
+  },
+  {
+    "lesson_name": "How Greenhouse Gases Warm Earth",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how certain gases trap heat and influence global temperatures.",
+    "preparation_guidelines": [
+      "Name greenhouse gases",
+      "Describe heat trapping",
+      "Mention climate effects",
+      "End with an environmental insight"
+    ]
+  },
+  {
+    "lesson_name": "How Trade Networks Shaped Early Economies",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how ancient trade routes developed economic and cultural connections.",
+    "preparation_guidelines": [
+      "Name a trade network",
+      "Mention exchanged goods",
+      "Explain cultural impacts",
+      "End with a historical insight"
+    ]
+  },
+  {
+    "lesson_name": "How Enzymes Speed Up Chemical Reactions",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how enzymes help the body perform essential chemical processes.",
+    "preparation_guidelines": [
+      "Define enzymes",
+      "Describe reaction speed",
+      "Give a biological example",
+      "End with a science note"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Reduces Dependence on Fossil Fuels",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how clean energy sources slow pollution and resource depletion.",
+    "preparation_guidelines": [
+      "Name renewable sources",
+      "Explain reduction of fossil fuel use",
+      "Give an environmental example",
+      "End with a sustainability message"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Expression Reflects Identity",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how art, music, and language communicate identity and history.",
+    "preparation_guidelines": [
+      "Mention a cultural element",
+      "Explain its meaning",
+      "Give an example",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Interior Drives Geological Change",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how movements in Earth’s mantle cause earthquakes and volcanic activity.",
+    "preparation_guidelines": [
+      "Mention mantle movement",
+      "Describe plate effects",
+      "Give a geologic example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Media Influences Public Opinion",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how news, social media, and advertising shape beliefs.",
+    "preparation_guidelines": [
+      "Mention a media source",
+      "Describe its influence",
+      "Give a real example",
+      "End with a critical thinking tip"
+    ]
+  },
+  {
+    "lesson_name": "How Healthy Relationships Require Boundaries",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how setting limits supports respect and emotional safety.",
+    "preparation_guidelines": [
+      "Describe boundaries",
+      "Explain why they matter",
+      "Give a social example",
+      "End with an SEL statement"
+    ]
+  },
+  {
+    "lesson_name": "How Financial Decisions Affect Long-Term Stability",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how saving, spending, and investing influence financial security.",
+    "preparation_guidelines": [
+      "Name a financial decision",
+      "Explain its long-term effect",
+      "Give an example",
+      "End with a responsibility reminder"
+    ]
+  },
+  {
+    "lesson_name": "How the Scientific Method Ensures Reliable Results",
+    "grade": 9,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how repeated testing and data analysis strengthen scientific conclusions.",
+    "preparation_guidelines": [
+      "Mention experimentation",
+      "Describe data collection",
+      "Explain why repetition matters",
+      "End with a research insight"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Systems Interact Across the Globe",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how oceans, atmosphere, and landforms influence global climate patterns.",
+    "preparation_guidelines": [
+      "Mention a system interaction",
+      "Explain climate influence",
+      "Provide an example",
+      "End with an environmental message"
+    ]
+  },
+  {
+    "lesson_name": "How Social Movements Drive Political Change",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how organized groups influence laws, rights, and public awareness.",
+    "preparation_guidelines": [
+      "Name a movement",
+      "Describe its goal",
+      "Mention effects on society",
+      "End with a reflective insight"
+    ]
+  },
+  {
+    "lesson_name": "How Chemical Equations Represent Reactions",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how formulas show reactants turning into products with balanced atoms.",
+    "preparation_guidelines": [
+      "Explain equation parts",
+      "Mention balancing",
+      "Give a reaction example",
+      "End with a scientific note"
+    ]
+  },
+  {
+    "lesson_name": "How Technological Innovation Impacts Global Economies",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how new technologies affect trade, jobs, and economic growth.",
+    "preparation_guidelines": [
+      "Mention a technology",
+      "Describe its economic effect",
+      "Give a global example",
+      "End with a future perspective"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Exchange Influences Modern Identity",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how global interaction blends traditions, art forms, and ideas.",
+    "preparation_guidelines": [
+      "Mention a cultural exchange",
+      "Explain how identity changes",
+      "Give an example",
+      "End with a diversity insight"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Resources Must Be Managed Sustainably",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how responsible resource use prevents long-term environmental damage.",
+    "preparation_guidelines": [
+      "Name a resource",
+      "Explain overuse consequences",
+      "Give a management example",
+      "End with a sustainability message"
+    ]
+  },
+  {
+    "lesson_name": "How Human Rights Movements Influence Modern Policy",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how struggles for equality shape current laws and protections.",
+    "preparation_guidelines": [
+      "Name a rights movement",
+      "Describe its goals",
+      "Mention policy outcomes",
+      "End with a justice message"
+    ]
+  },
+  {
+    "lesson_name": "How the Brain Processes Complex Information",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how different brain regions analyze, store, and respond to data.",
+    "preparation_guidelines": [
+      "Name a brain region",
+      "Describe one function",
+      "Give an example of information processing",
+      "End with a science reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Reasoning Helps Address Social Issues",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Share how evaluating fairness and impact guides responsible solutions.",
+    "preparation_guidelines": [
+      "Mention ethical principles",
+      "Describe evaluating choices",
+      "Provide an issue example",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Breakthroughs Influence Society",
+    "grade": 9,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how discoveries in medicine, energy, or technology shape daily life.",
+    "preparation_guidelines": [
+      "Name a breakthrough",
+      "Describe its impact",
+      "Give a modern example",
+      "End with a curiosity-driven insight"
+    ]
+  },
+  {
+    "lesson_name": "How Carbon Moves Through the Carbon Cycle",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how carbon travels between air, plants, animals, and the ocean.",
+    "preparation_guidelines": [
+      "Mention carbon sources",
+      "Describe movement between systems",
+      "Give an example",
+      "End with a climate connection"
+    ]
+  },
+  {
+    "lesson_name": "How DNA Stores Genetic Information",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how DNA carries instructions that determine traits.",
+    "preparation_guidelines": [
+      "Say what DNA is",
+      "Explain its structure simply",
+      "Mention how traits are stored",
+      "End with a biology insight"
+    ]
+  },
+  {
+    "lesson_name": "How Weather Patterns Form",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how temperature, pressure, and moisture patterns create weather.",
+    "preparation_guidelines": [
+      "Mention temperature effects",
+      "Explain pressure changes",
+      "Give a weather example",
+      "End with a forecasting note"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Supports Clean Power",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how solar, wind, and hydro systems provide eco-friendly energy.",
+    "preparation_guidelines": [
+      "Name a renewable source",
+      "Explain how it creates power",
+      "Mention benefits",
+      "End with a sustainability comment"
+    ]
+  },
+  {
+    "lesson_name": "How Social Groups Influence Behavior",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how peer groups shape beliefs, choices, and identity.",
+    "preparation_guidelines": [
+      "Mention group influence",
+      "Describe a behavioral example",
+      "Explain why awareness matters",
+      "End with an SEL reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Pollution Harms Aquatic Ecosystems",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how chemicals and waste disrupt rivers, lakes, and oceans.",
+    "preparation_guidelines": [
+      "Name a pollutant",
+      "Explain its impact",
+      "Give an ecosystem example",
+      "End with a conservation idea"
+    ]
+  },
+  {
+    "lesson_name": "How Maps Represent Economic Activity",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how maps show resources, industries, and trade routes.",
+    "preparation_guidelines": [
+      "Mention map symbols",
+      "Describe economic patterns",
+      "Give a geographic example",
+      "End with a real-world insight"
+    ]
+  },
+  {
+    "lesson_name": "How the Circulatory and Respiratory Systems Work Together",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how oxygen moves from the air to the bloodstream.",
+    "preparation_guidelines": [
+      "Explain gas exchange",
+      "Mention blood transport",
+      "Give a body example",
+      "End with a health tip"
+    ]
+  },
+  {
+    "lesson_name": "How Positive Stress Management Improves Well-Being",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Share how techniques like breathing, planning, and reflection reduce stress.",
+    "preparation_guidelines": [
+      "Mention a stressor",
+      "Explain a coping skill",
+      "Describe why it helps",
+      "End with encouragement"
+    ]
+  },
+  {
+    "lesson_name": "How Historical Maps Show Change Over Time",
+    "grade": 10,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how old maps reveal shifts in borders, trade, and exploration.",
+    "preparation_guidelines": [
+      "Mention a historical period",
+      "Describe a map change",
+      "Give an example",
+      "End with a reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Change Intensifies Weather Events",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how rising temperatures influence storms, droughts, and heatwaves.",
+    "preparation_guidelines": [
+      "Mention temperature trends",
+      "Explain event changes",
+      "Give an example",
+      "End with a climate insight"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Diffusion Shapes Modern Societies",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how ideas, foods, and traditions spread between cultures.",
+    "preparation_guidelines": [
+      "Define cultural diffusion",
+      "Mention an example",
+      "Explain societal impact",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Cells Divide Through Mitosis",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how cells replicate to grow and repair the body.",
+    "preparation_guidelines": [
+      "Mention stages simply",
+      "Explain purpose of mitosis",
+      "Give an example",
+      "End with a science fact"
+    ]
+  },
+  {
+    "lesson_name": "How Economies Use Supply and Demand",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how prices change based on what people want and what is available.",
+    "preparation_guidelines": [
+      "Define supply and demand",
+      "Describe price shifts",
+      "Give a marketplace example",
+      "End with an economic insight"
+    ]
+  },
+  {
+    "lesson_name": "How Literature Explores Social Issues",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how stories highlight topics like justice, identity, and inequality.",
+    "preparation_guidelines": [
+      "Mention a social issue",
+      "Describe how literature presents it",
+      "Give an example",
+      "End with an SEL connection"
+    ]
+  },
+  {
+    "lesson_name": "How Wind, Water, and Ice Shape Earth’s Surface",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe powerful forces that create valleys, cliffs, and other landforms.",
+    "preparation_guidelines": [
+      "Name an agent of change",
+      "Explain how it shapes Earth",
+      "Give an example",
+      "End with a geography note"
+    ]
+  },
+  {
+    "lesson_name": "How Technology Transforms the Workplace",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how automation and digital tools change job skills and opportunities.",
+    "preparation_guidelines": [
+      "Mention a new technology",
+      "Describe workplace impact",
+      "Give an example",
+      "End with a future-oriented thought"
+    ]
+  },
+  {
+    "lesson_name": "How Emotional Intelligence Strengthens Leadership",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how self-awareness and empathy help leaders guide others effectively.",
+    "preparation_guidelines": [
+      "Define emotional intelligence",
+      "Describe leadership traits",
+      "Give a scenario example",
+      "End with a growth message"
+    ]
+  },
+  {
+    "lesson_name": "How Humans Impact Water Quality",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how farming, industry, and waste affect rivers and lakes.",
+    "preparation_guidelines": [
+      "Name a human activity",
+      "Describe a water effect",
+      "Give an example",
+      "End with a conservation idea"
+    ]
+  },
+  {
+    "lesson_name": "How Scientists Use Data to Draw Conclusions",
+    "grade": 10,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how data collection, graphs, and patterns support scientific claims.",
+    "preparation_guidelines": [
+      "Mention data types",
+      "Explain pattern analysis",
+      "Give an example",
+      "End with a research insight"
+    ]
+  },
+  {
+    "lesson_name": "How Global Climate Systems Interact With Human Activity",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how energy use, agriculture, and industry influence global climate patterns.",
+    "preparation_guidelines": [
+      "Mention human factors",
+      "Describe climate effects",
+      "Give a global example",
+      "End with a sustainability reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Social Movements Lead to Systemic Change",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how coordinated activism shifts policies, institutions, and cultural norms.",
+    "preparation_guidelines": [
+      "Mention a movement",
+      "Explain its motivation",
+      "Describe its long-term influence",
+      "End with a justice insight"
+    ]
+  },
+  {
+    "lesson_name": "How Chemical Reactions Demonstrate Conservation of Energy",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how energy transfers during reactions but is never destroyed.",
+    "preparation_guidelines": [
+      "Mention energy forms",
+      "Describe reaction energy",
+      "Give an example",
+      "End with a scientific takeaway"
+    ]
+  },
+  {
+    "lesson_name": "How Globalization Shapes Economic Interdependence",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Share how countries rely on each other for resources, trade, and labor.",
+    "preparation_guidelines": [
+      "Mention interconnected economies",
+      "Explain benefits",
+      "Explain challenges",
+      "End with a global perspective"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Narratives Influence Society",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how shared stories shape beliefs, identity, and social expectations.",
+    "preparation_guidelines": [
+      "Mention a cultural narrative",
+      "Explain its influence",
+      "Give a modern example",
+      "End with a reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Technological Innovation Redefines Ethics",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how new inventions raise questions about safety, privacy, and fairness.",
+    "preparation_guidelines": [
+      "Mention a modern technology",
+      "Describe an ethical issue",
+      "Give a scenario",
+      "End with a thought-provoking note"
+    ]
+  },
+  {
+    "lesson_name": "How Ecosystem Loss Affects Global Stability",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how destruction of habitats influences climate, food supply, and species survival.",
+    "preparation_guidelines": [
+      "Name an ecosystem",
+      "Explain damage effects",
+      "Give a global impact example",
+      "End with a conservation idea"
+    ]
+  },
+  {
+    "lesson_name": "How Neuroscience Shapes Understanding of Human Behavior",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how brain research reveals patterns in thinking, emotion, and decision-making.",
+    "preparation_guidelines": [
+      "Mention a brain function",
+      "Describe its influence on behavior",
+      "Give a neuroscience example",
+      "End with an SEL insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Reasoning Supports Fair Public Policy",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how evaluating values and consequences helps create just laws.",
+    "preparation_guidelines": [
+      "Mention guiding principles",
+      "Describe a public issue",
+      "Explain how ethics contributes",
+      "End with a civic message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Innovation Shapes the Future of Medicine",
+    "grade": 10,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how discoveries like gene editing, robotics, and nanotech transform healthcare.",
+    "preparation_guidelines": [
+      "Name a medical innovation",
+      "Describe its purpose",
+      "Give a real example",
+      "End with a future-focused insight"
+    ]
+  },
+  {
+    "lesson_name": "How Natural Selection Shapes Species",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how organisms with helpful traits survive and pass on those traits.",
+    "preparation_guidelines": [
+      "Define beneficial traits",
+      "Describe survival advantages",
+      "Give an example",
+      "End with an evolution insight"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Rotation Affects Weather Systems",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how Earth’s spin creates global wind patterns.",
+    "preparation_guidelines": [
+      "Mention rotation",
+      "Explain deflection of wind",
+      "Give a real-world effect",
+      "End with a climate note"
+    ]
+  },
+  {
+    "lesson_name": "How Vaccines Build Community Immunity",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how widespread vaccination protects both individuals and communities.",
+    "preparation_guidelines": [
+      "Define community immunity",
+      "Explain vaccine benefits",
+      "Give an example",
+      "End with a health awareness tip"
+    ]
+  },
+  {
+    "lesson_name": "How Rivers Carve Valleys Over Time",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how flowing water shapes deep, wide valleys.",
+    "preparation_guidelines": [
+      "Mention erosion",
+      "Describe carving over time",
+      "Give a landform example",
+      "End with a geography insight"
+    ]
+  },
+  {
+    "lesson_name": "How Photosynthesis Drives Food Chains",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how plant energy supports all organisms in an ecosystem.",
+    "preparation_guidelines": [
+      "Mention sunlight conversion",
+      "Explain energy flow",
+      "Give a food chain example",
+      "End with an ecosystem connection"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Traditions Shape Identity",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Share how shared customs influence values and beliefs.",
+    "preparation_guidelines": [
+      "Mention a tradition",
+      "Explain its meaning",
+      "Give a cultural example",
+      "End with a respect message"
+    ]
+  },
+  {
+    "lesson_name": "How Financial Literacy Supports Independence",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how managing money builds confidence and stability.",
+    "preparation_guidelines": [
+      "Mention saving or budgeting",
+      "Explain long-term impact",
+      "Give a decision example",
+      "End with a responsibility insight"
+    ]
+  },
+  {
+    "lesson_name": "How Chromosomes Carry Genetic Information",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how chromosomes organize genes inside cells.",
+    "preparation_guidelines": [
+      "Define chromosomes",
+      "Describe gene storage",
+      "Give a biology example",
+      "End with a scientific note"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Resources Reduce Carbon Footprints",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Share how using clean energy lowers environmental impact.",
+    "preparation_guidelines": [
+      "Name a renewable resource",
+      "Explain carbon reduction",
+      "Give a real example",
+      "End with a sustainability message"
+    ]
+  },
+  {
+    "lesson_name": "How Effective Communication Strengthens Leadership",
+    "grade": 11,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how clarity, empathy, and listening build trust.",
+    "preparation_guidelines": [
+      "Mention a communication skill",
+      "Explain its leadership value",
+      "Give a scenario example",
+      "End with an SEL insight"
+    ]
+  },
+  {
+    "lesson_name": "How Carbon Emissions Influence Global Temperature",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how greenhouse gas buildup raises Earth’s average temperature.",
+    "preparation_guidelines": [
+      "Mention main gases",
+      "Describe heat trapping",
+      "Give a climate effect",
+      "End with environmental awareness"
+    ]
+  },
+  {
+    "lesson_name": "How Social Movements Strengthen Democracy",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how public activism encourages accountability and reform.",
+    "preparation_guidelines": [
+      "Mention a movement",
+      "Explain its civic role",
+      "Give an example",
+      "End with a civic insight"
+    ]
+  },
+  {
+    "lesson_name": "How Gene Expression Controls Traits",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how activated genes determine physical and behavioral traits.",
+    "preparation_guidelines": [
+      "Define gene expression",
+      "Mention environmental influence",
+      "Give a trait example",
+      "End with a biology insight"
+    ]
+  },
+  {
+    "lesson_name": "How Global Supply Chains Function",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how goods move from producers to consumers across countries.",
+    "preparation_guidelines": [
+      "Mention production steps",
+      "Explain transportation",
+      "Give a global example",
+      "End with an economic insight"
+    ]
+  },
+  {
+    "lesson_name": "How Literature Reveals Social Inequality",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how authors highlight injustice through characters and themes.",
+    "preparation_guidelines": [
+      "Name a literary element",
+      "Explain how it shows inequality",
+      "Give an example",
+      "End with a reflective note"
+    ]
+  },
+  {
+    "lesson_name": "How Plate Tectonics Creates Geological Hazards",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how faults and boundaries generate earthquakes and volcanic eruptions.",
+    "preparation_guidelines": [
+      "Mention tectonic boundaries",
+      "Describe movement",
+      "Give a hazard example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Emotional Intelligence Enhances Collaboration",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how self-awareness and empathy support teamwork.",
+    "preparation_guidelines": [
+      "Define emotional intelligence",
+      "Mention team benefits",
+      "Give a scenario example",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Urbanization Affects the Environment",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how growing cities change land use, biodiversity, and resources.",
+    "preparation_guidelines": [
+      "Mention urban growth",
+      "Describe an environmental effect",
+      "Give a community example",
+      "End with a sustainability message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Research Addresses Global Health Issues",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how data and experiments guide solutions for major diseases.",
+    "preparation_guidelines": [
+      "Mention research methods",
+      "Explain data importance",
+      "Give a health example",
+      "End with a global insight"
+    ]
+  },
+  {
+    "lesson_name": "How Global Interdependence Shapes Cultures",
+    "grade": 11,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how travel, trade, and technology blend global identities.",
+    "preparation_guidelines": [
+      "Mention cultural exchange",
+      "Describe influence patterns",
+      "Give a modern example",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Feedback Loops Accelerate Warming",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how warming triggers processes that further increase global temperatures.",
+    "preparation_guidelines": [
+      "Describe a feedback loop",
+      "Mention warming effects",
+      "Give an example",
+      "End with a reflective insight"
+    ]
+  },
+  {
+    "lesson_name": "How Civil Rights Movements Shape Modern Policy",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Share how long-term activism influences present-day laws and protections.",
+    "preparation_guidelines": [
+      "Name a movement",
+      "Describe its long-term change",
+      "Give a policy example",
+      "End with a justice message"
+    ]
+  },
+  {
+    "lesson_name": "How Chemical Equilibrium Maintains Balance in Reactions",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how forward and reverse reactions stabilize at equilibrium.",
+    "preparation_guidelines": [
+      "Mention reaction directions",
+      "Describe balance conditions",
+      "Give an example",
+      "End with a scientific insight"
+    ]
+  },
+  {
+    "lesson_name": "How Globalization Impacts National Economies",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how trade agreements, labor markets, and technology shape economic outcomes.",
+    "preparation_guidelines": [
+      "Mention an economic factor",
+      "Explain global influence",
+      "Give a real example",
+      "End with a future perspective"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Narratives Guide Social Values",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how stories, myths, and media shape shared beliefs.",
+    "preparation_guidelines": [
+      "Mention a narrative type",
+      "Describe influence on values",
+      "Give a cultural example",
+      "End with a thoughtful insight"
+    ]
+  },
+  {
+    "lesson_name": "How Technological Disruption Reshapes Job Markets",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how automation and innovation change employment needs.",
+    "preparation_guidelines": [
+      "Mention a disruptive technology",
+      "Explain job impact",
+      "Give a workforce example",
+      "End with a future-oriented note"
+    ]
+  },
+  {
+    "lesson_name": "How Biodiversity Loss Threatens Global Systems",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how declining species reduce ecosystem stability and resilience.",
+    "preparation_guidelines": [
+      "Define biodiversity loss",
+      "Describe ecosystem impact",
+      "Give a global example",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Neuroscience Informs Mental Health Treatment",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how brain research supports new therapeutic approaches.",
+    "preparation_guidelines": [
+      "Mention a brain process",
+      "Explain a research finding",
+      "Give a treatment example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Analysis Supports Responsible Leadership",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how evaluating values and consequences helps leaders make fair decisions.",
+    "preparation_guidelines": [
+      "Mention ethical principles",
+      "Describe a decision process",
+      "Give a scenario",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Innovation Shapes Environmental Policy",
+    "grade": 11,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how discoveries influence laws about climate, energy, and conservation.",
+    "preparation_guidelines": [
+      "Name a scientific finding",
+      "Explain its policy effect",
+      "Give an example",
+      "End with a sustainability note"
+    ]
+  },
+  {
+    "lesson_name": "How Global Wind Patterns Circulate Energy Around Earth",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how major wind belts move heat from the equator to the poles.",
+    "preparation_guidelines": [
+      "Mention uneven heating",
+      "Describe major wind belts",
+      "Give an example",
+      "End with a climate connection"
+    ]
+  },
+  {
+    "lesson_name": "How DNA Mutations Influence Traits",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how small changes in DNA can create new characteristics.",
+    "preparation_guidelines": [
+      "Define mutations simply",
+      "Explain how they occur",
+      "Give an example",
+      "End with a biology insight"
+    ]
+  },
+  {
+    "lesson_name": "How Carbon Storage Helps Regulate Earth’s Climate",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Share how oceans, soil, and forests store carbon to balance atmospheric gases.",
+    "preparation_guidelines": [
+      "Name a carbon sink",
+      "Explain storage",
+      "Give an environmental example",
+      "End with a conservation note"
+    ]
+  },
+  {
+    "lesson_name": "How Renewable Energy Systems Convert Natural Power",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how solar, wind, and hydro systems turn natural forces into electricity.",
+    "preparation_guidelines": [
+      "Name a system",
+      "Describe energy conversion",
+      "Mention benefits",
+      "End with a sustainability reminder"
+    ]
+  },
+  {
+    "lesson_name": "How Communication Skills Improve Workplace Success",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how clarity, tone, and active listening support teamwork and leadership.",
+    "preparation_guidelines": [
+      "Mention key skills",
+      "Explain why they matter",
+      "Give a workplace example",
+      "End with an SEL message"
+    ]
+  },
+  {
+    "lesson_name": "How Earth’s Interior Drives Volcanic Activity",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how magma movement and pressure create volcanic eruptions.",
+    "preparation_guidelines": [
+      "Mention magma sources",
+      "Describe pressure buildup",
+      "Give an eruption example",
+      "End with a science takeaway"
+    ]
+  },
+  {
+    "lesson_name": "How Government Policies Shape Public Health",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Describe how laws guide health standards, safety, and disease prevention.",
+    "preparation_guidelines": [
+      "Mention a policy type",
+      "Explain its purpose",
+      "Give a real example",
+      "End with a civic awareness message"
+    ]
+  },
+  {
+    "lesson_name": "How Art Reflects Social Values",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Share how visual art expresses cultural beliefs and historical perspectives.",
+    "preparation_guidelines": [
+      "Mention an artistic element",
+      "Describe social meaning",
+      "Give an example",
+      "End with a reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Data Literacy Supports Smart Decision-Making",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Explain how analyzing information helps people make evidence-based choices.",
+    "preparation_guidelines": [
+      "Mention data types",
+      "Describe interpretation",
+      "Give a real example",
+      "End with a critical thinking note"
+    ]
+  },
+  {
+    "lesson_name": "How Conflict Resolution Strengthens Relationships",
+    "grade": 12,
+    "difficulty": "EASY",
+    "topic_overview": "Share how communication and empathy help resolve disagreements.",
+    "preparation_guidelines": [
+      "Mention a conflict skill",
+      "Explain how it helps",
+      "Give a scenario example",
+      "End with an SEL-focused message"
+    ]
+  },
+  {
+    "lesson_name": "How Ocean Circulation Influences Global Climate",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how major ocean currents transport heat and affect weather patterns.",
+    "preparation_guidelines": [
+      "Explain heat transport",
+      "Mention a major current",
+      "Describe a regional effect",
+      "End with a climate reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Gene Regulation Controls Cell Function",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how cells turn genes on or off to perform specialized tasks.",
+    "preparation_guidelines": [
+      "Define gene regulation",
+      "Mention triggers",
+      "Give a biological example",
+      "End with a science insight"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Exchange Shapes Modern Identities",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how global communication blends traditions, languages, and beliefs.",
+    "preparation_guidelines": [
+      "Mention an exchange example",
+      "Explain influence on identity",
+      "Give a cultural scenario",
+      "End with a diversity message"
+    ]
+  },
+  {
+    "lesson_name": "How Automation Transforms Job Markets",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how robotics and software reshape workforce demands.",
+    "preparation_guidelines": [
+      "Mention an automated task",
+      "Explain job changes",
+      "Give an industry example",
+      "End with a future-focused idea"
+    ]
+  },
+  {
+    "lesson_name": "How Literature Responds to Social Change",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how writers address evolving issues like equality and justice.",
+    "preparation_guidelines": [
+      "Mention a literary theme",
+      "Explain its relevance",
+      "Give an example",
+      "End with a reflective insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ecosystem Services Support Human Life",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how natural systems like pollination, water filtration, and forests sustain society.",
+    "preparation_guidelines": [
+      "Name an ecosystem service",
+      "Describe how it works",
+      "Give an example",
+      "End with a conservation message"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Reasoning Guides Everyday Decisions",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Share how evaluating fairness, risks, and consequences helps solve problems.",
+    "preparation_guidelines": [
+      "Mention ethical criteria",
+      "Explain a decision step",
+      "Give a scenario",
+      "End with an SEL reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Globalization Redefines Cultural Boundaries",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how technology and trade mix global traditions and lifestyles.",
+    "preparation_guidelines": [
+      "Mention a globalization factor",
+      "Describe cultural blending",
+      "Give an example",
+      "End with a perspective note"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Policy Guides Environmental Action",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Describe how governments create rules to reduce emissions and protect ecosystems.",
+    "preparation_guidelines": [
+      "Mention a policy approach",
+      "Explain its purpose",
+      "Give a national or global example",
+      "End with a sustainability message"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Models Predict Future Outcomes",
+    "grade": 12,
+    "difficulty": "MEDIUM",
+    "topic_overview": "Explain how models use data to forecast climate, population, or disease trends.",
+    "preparation_guidelines": [
+      "Mention model components",
+      "Describe prediction methods",
+      "Give a real-world application",
+      "End with a scientific reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Climate Feedback Mechanisms Accelerate Global Change",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how feedback loops amplify warming and reshape ecosystems.",
+    "preparation_guidelines": [
+      "Name a feedback loop",
+      "Explain its environmental effect",
+      "Give an example",
+      "End with a global insight"
+    ]
+  },
+  {
+    "lesson_name": "How Epigenetics Influences Gene Expression Across Generations",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how environmental conditions can change how genes are expressed over time.",
+    "preparation_guidelines": [
+      "Define epigenetics",
+      "Mention environmental triggers",
+      "Give a cross-generational example",
+      "End with a science takeaway"
+    ]
+  },
+  {
+    "lesson_name": "How Social and Political Movements Redefine Rights",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how activism shifts public policy and legal protections.",
+    "preparation_guidelines": [
+      "Name a movement",
+      "Explain its purpose",
+      "Describe long-term policy impact",
+      "End with a justice-based insight"
+    ]
+  },
+  {
+    "lesson_name": "How Quantum Technology Could Transform Computing",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how quantum bits process information in ways classical computers cannot.",
+    "preparation_guidelines": [
+      "Define qubits simply",
+      "Mention superposition or entanglement",
+      "Describe computing potential",
+      "End with a future-focused note"
+    ]
+  },
+  {
+    "lesson_name": "How Cultural Narratives Influence Ethical Decision-Making",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Share how traditions, stories, and shared beliefs shape moral choices.",
+    "preparation_guidelines": [
+      "Mention a narrative source",
+      "Explain its influence",
+      "Give an ethical example",
+      "End with a reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Economic Globalization Creates Interdependent Markets",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how trade networks connect national economies and shape stability.",
+    "preparation_guidelines": [
+      "Mention interconnected markets",
+      "Explain benefits and risks",
+      "Give a global example",
+      "End with an economic insight"
+    ]
+  },
+  {
+    "lesson_name": "How Biodiversity Loss Threatens Human Survival",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how declining species affect food security, climate stability, and medicine.",
+    "preparation_guidelines": [
+      "Name a threatened group",
+      "Describe ecosystem effects",
+      "Give a human impact example",
+      "End with a conservation statement"
+    ]
+  },
+  {
+    "lesson_name": "How Neuroscience Reveals the Biology of Decision-Making",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Describe how brain circuits evaluate rewards, risks, and consequences.",
+    "preparation_guidelines": [
+      "Mention a brain region",
+      "Explain a decision process",
+      "Give a scientific example",
+      "End with an SEL insight"
+    ]
+  },
+  {
+    "lesson_name": "How Ethical Frameworks Shape Public Policy",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Explain how principles like justice, equity, and autonomy guide laws.",
+    "preparation_guidelines": [
+      "Mention an ethical framework",
+      "Describe how it influences policy",
+      "Give an example",
+      "End with a civic reflection"
+    ]
+  },
+  {
+    "lesson_name": "How Scientific Innovation Drives Global Transformation",
+    "grade": 12,
+    "difficulty": "HARD",
+    "topic_overview": "Share how breakthroughs in energy, medicine, and computing reshape societies.",
+    "preparation_guidelines": [
+      "Name a scientific breakthrough",
+      "Explain its global effect",
+      "Give a real example",
+      "End with a future-thinking insight"
+    ]
+  }
+]

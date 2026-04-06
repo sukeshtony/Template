@@ -1,0 +1,93 @@
+-- ============================================================
+-- Lesson 11: Why Patterns Matter in Science (Grade 6 - HARD)
+-- ============================================================
+
+-- Step 1: Insert lesson and capture lesson_id
+WITH new_lesson AS (
+    INSERT INTO bantrly.lesson (
+        lesson_id,
+        lesson_name,
+        lesson_description,
+        training_module_id,
+        difficulty_level,
+        lesson_type,
+        created_on,
+        created_by,
+        created_by_role,
+        is_deleted,
+        is_assessment,
+        grade,
+        section,
+        lesson_image_url
+    ) VALUES (
+        gen_random_uuid(),
+        'Why Patterns Matter in Science',
+        'Patterns help scientists notice repeated shapes, movements, or behaviors in nature. By finding patterns, we can predict what might happen next and better understand how the world works.',
+        'e9f70a86-834f-4f3c-aa92-7bbd98e9ad72',
+        'HARD',
+        'Presentation Skill',
+        NOW(),
+        'ec7f3910-d9a3-4957-93c1-198cdd131409',
+        'SUPER_ADMIN',
+        false,
+        false,
+        6,
+        NULL,
+        NULL
+    )
+    RETURNING lesson_id
+),
+
+-- Step 2: Insert lesson version
+new_version AS (
+    INSERT INTO bantrly.lesson_version_new (
+        lesson_version_id,
+        lesson_id,
+        version_number,
+        title,
+        content,
+        status,
+        is_latest,
+        created_at
+    )
+    SELECT
+        gen_random_uuid(),
+        lesson_id,
+        1,
+        'Why Patterns Matter in Science',
+        '{}',
+        'published',
+        true,
+        NOW()
+    FROM new_lesson
+    RETURNING lesson_id
+)
+
+-- Step 3: Insert lesson content
+INSERT INTO bantrly.lesson_content (
+    content_id,
+    lesson_id,
+    content_key,
+    content_value,
+    created_at,
+    updated_at
+)
+SELECT gen_random_uuid(), lesson_id, 'topic_overview',
+ 'Patterns help scientists notice repeated shapes, movements, or behaviors in nature. By finding patterns, we can predict what might happen next and better understand how the world works.',
+ NOW(), NOW()
+FROM new_lesson
+UNION ALL
+SELECT gen_random_uuid(), lesson_id, 'preparation_guidelines',
+ 'Name a type of pattern. Describe how it represents information. Give an example. End with a science encouragement.',
+ NOW(), NOW()
+FROM new_lesson
+UNION ALL
+SELECT gen_random_uuid(), lesson_id, 'example_heading',
+ 'Say what reading is. List 2–3 benefits of reading regularly. Explain how it helps your mind and creativity. End with a strong call-to-action!',
+ NOW(), NOW()
+FROM new_lesson
+UNION ALL
+SELECT gen_random_uuid(), lesson_id, 'example_content',
+ 'Reading is when you explore stories or learn new things through books. It can help you relax, spark your imagination, and improve your vocabulary. Plus, it''s a great way to travel to new worlds without leaving home. So grab a book today and start your next adventure!',
+ NOW(), NOW()
+FROM new_lesson;

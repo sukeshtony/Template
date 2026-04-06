@@ -1,0 +1,65 @@
+Total paragraphs: 3601
+Total tables: 0
+
+0: Silly Topic Debate Lessons – Module 7
+1: Grade: 1
+2: Easy
+3: Topic: Shoes vs. Slippers
+4: Debate Topic: Slippers are better than shoes
+5: AI Side: Slippers
+6: User Side: Shoes
+7: AI Lines:
+8: Slippers are soft and cozy. You can wear them at home and feel comfy.
+9: That sounds nice! Why do some people like shoes more?
+10: Tell me one last reason.
+11: Grade: 1
+12: Easy
+13: Topic: Apples vs. Bananas
+14: Debate Topic: Bananas are better than apples
+15: AI Side: Bananas
+16: User Side: Apples
+17: AI Lines:
+18: Bananas are sweet and easy to peel.
+19: Yummy! Why might apples be better?
+20: What is your final reason?
+21: Grade: 1
+22: Easy
+23: Topic: Drawing vs. Singing
+24: Debate Topic: Drawing is more fun than singing
+25: AI Side: Drawing
+26: User Side: Singing
+27: AI Lines:
+28: Drawing lets you make pictures with colors.
+29: That’s fun! Why do people like singing?
+30: One more reason!
+31: Grade: 1
+32: Easy
+33: Topic: Morning vs. Night
+34: Debate Topic: Morning is better than night
+35: AI Side: Morning
+36: User Side: Night
+37: AI Lines:
+38: Morning is bright and full of energy.
+39: Interesting! Why is night fun too?
+40: Final reason — go!
+41: Grade: 1
+42: Easy
+43: Topic: Crayons vs. Markers
+44: Debate Topic: Crayons are better than markers
+45: AI Side: Crayons
+46: User Side: Markers
+47: AI Lines:
+48: Crayons don’t make a mess and have many colors.
+49: True! Why do people like markers?
+50: Tell me your last idea.
+51: Grade: 1
+52: Easy
+53: Topic: Jumping vs. Running
+54: Debate Topic: Jumping is more fun than running
+55: AI Side: Jumping
+56: User Side: Running
+57: AI Lines:
+58: Jumping makes you feel like you’re flying.
+59: Fun! Why is running good too?
+
+...

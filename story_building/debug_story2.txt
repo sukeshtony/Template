@@ -1,0 +1,350 @@
+Total paragraphs: 408
+Total tables: 0
+
+0: GRADE 1 - MODULE 2: BUILD A STORY WITH KEYWORDS (EASY)
+1: 10 Completely Unique Lessons
+2: Lesson 1 – Puppy and the Red Ball
+ Keywords: puppy, ball, grass, sun, friend
+ Story:
+ In a sunny park, a small puppy chased a bright red ball across the soft grass. He bumped into a new friend who was also playing nearby. They smiled, shared the ball, and spent the morning laughing together. It felt good to make a new friend under the warm sun.
+ SEL Focus: Sharing and friendly cooperation.
+3: Lesson 2 – Flying the Colorful Kite
+ Keywords: kite, wind, hill, sister, smile
+ Story:
+ On a gentle hill, a girl tried to fly her colorful kite. The wind was shy at first, but her sister helped her hold the string. Together, they lifted the kite high into the sky. When it finally soared, both girls shared a bright, happy smile.
+ SEL Focus: Teamwork and encouragement.
+4: Lesson 3 – Quiet Pond Moment
+ Keywords: turtle, pond, leaf, breeze, calm
+ Story:
+ By a quiet pond, a slow turtle watched a leaf float across the water. A soft breeze rustled the nearby plants. Sitting still, the turtle felt calm and peaceful, enjoying the quiet moment just as it was.
+ SEL Focus: Mindfulness and noticing peaceful moments.
+5: Lesson 4 – The Apple Basket
+ Keywords: apple, tree, basket, neighbor, help
+ Story:
+ A little boy saw his neighbor trying to pick apples from a tall tree. He brought over a basket and offered to help. Together, they picked shiny red apples and filled the basket to the top. Helping made both of them feel proud and happy.
+ SEL Focus: Helping others and kindness.
+6: Lesson 5 – Rainbow and Puddles
+ Keywords: rainbow, rain, boots, giggle, puddle
+ Story:
+ After a light rain, a rainbow stretched across the sky. A child put on bright yellow boots and splashed in a puddle. The tiny splashes made them giggle with joy. Nature felt magical that day.
+ SEL Focus: Joy in simple moments.
+7: Lesson 6 – The Gentle Nest
+ Keywords: bird, nest, branch, careful, gentle
+ Story:
+ A small bird fluttered around a tree, carrying tiny twigs. On a strong branch, it built a cozy nest. A child watching nearby stayed very quiet and gentle, careful not to scare the little bird as it worked.
+ SEL Focus: Respect for animals and quiet observation.
+8: Lesson 7 – Shells by the Shore
+ Keywords: beach, shell, wave, cousin, explore
+ Story:
+ At the beach, a child and their cousin searched for shells along the shore. A wave rolled in and tickled their toes. Laughing, they continued to explore the sand, excited with each new treasure they found.
+ SEL Focus: Curiosity and bonding.
+9: Lesson 8 – Lantern on the Path
+ Keywords: lantern, night, path, family, safe
+ Story:
+ During a calm night walk, a family carried a soft glowing lantern. It lit the path ahead, making everyone feel safe. The gentle light helped them stay close together as they enjoyed the quiet evening.
+ SEL Focus: Feeling safe with loved ones.
+10: Lesson 9 – Sharing the Paint
+ Keywords: paint, brush, colors, friend, share
+ Story:
+ Two friends sat at a table with bright paints and soft brushes. One friend ran out of blue paint, so the other shared theirs. Together, they mixed colors and created a beautiful picture they both loved.
+ SEL Focus: Sharing and cooperation.
+11: Lesson 10 – Waiting for the Sprout
+ Keywords: garden, carrot, water, grow, patient
+ Story:
+ A young child planted a tiny carrot seed in their garden. Every morning, they watered it carefully. Day after day, they waited patiently. One morning, a small green sprout peeked out, bringing a big smile to the child’s face.
+ SEL Focus: Patience and nurturing.
+12: 10 Completely Unique Lessons
+13: Lesson 1 – Puppy and the Red Ball
+ Keywords: puppy, ball, grass, sun, friend
+ Story:
+ In a sunny park, a small puppy chased a bright red ball across the soft grass. He bumped into a new friend who was also playing nearby. They smiled, shared the ball, and spent the morning laughing together. It felt good to make a new friend under the warm sun.
+ SEL Focus: Sharing and friendly cooperation.
+14: Lesson 2 – Flying the Colorful Kite
+ Keywords: kite, wind, hill, sister, smile
+ Story:
+ On a gentle hill, a girl tried to fly her colorful kite. The wind was shy at first, but her sister helped her hold the string. Together, they lifted the kite high into the sky. When it finally soared, both girls shared a bright, happy smile.
+ SEL Focus: Teamwork and encouragement.
+15: Lesson 3 – Quiet Pond Moment
+ Keywords: turtle, pond, leaf, breeze, calm
+ Story:
+ By a quiet pond, a slow turtle watched a leaf float across the water. A soft breeze rustled the nearby plants. Sitting still, the turtle felt calm and peaceful, enjoying the quiet moment just as it was.
+ SEL Focus: Mindfulness and noticing peaceful moments.
+16: Lesson 4 – The Apple Basket
+ Keywords: apple, tree, basket, neighbor, help
+ Story:
+ A little boy saw his neighbor trying to pick apples from a tall tree. He brought over a basket and offered to help. Together, they picked shiny red apples and filled the basket to the top. Helping made both of them feel proud and happy.
+ SEL Focus: Helping others and kindness.
+17: Lesson 5 – Rainbow and Puddles
+ Keywords: rainbow, rain, boots, giggle, puddle
+ Story:
+ After a light rain, a rainbow stretched across the sky. A child put on bright yellow boots and splashed in a puddle. The tiny splashes made them giggle with joy. Nature felt magical that day.
+ SEL Focus: Joy in simple moments.
+18: Lesson 6 – The Gentle Nest
+ Keywords: bird, nest, branch, careful, gentle
+ Story:
+ A small bird fluttered around a tree, carrying tiny twigs. On a strong branch, it built a cozy nest. A child watching nearby stayed very quiet and gentle, careful not to scare the little bird as it worked.
+ SEL Focus: Respect for animals and quiet observation.
+19: Lesson 7 – Shells by the Shore
+ Keywords: beach, shell, wave, cousin, explore
+ Story:
+ At the beach, a child and their cousin searched for shells along the shore. A wave rolled in and tickled their toes. Laughing, they continued to explore the sand, excited with each new treasure they found.
+ SEL Focus: Curiosity and bonding.
+20: Lesson 8 – Lantern on the Path
+ Keywords: lantern, night, path, family, safe
+ Story:
+ During a calm night walk, a family carried a soft glowing lantern. It lit the path ahead, making everyone feel safe. The gentle light helped them stay close together as they enjoyed the quiet evening.
+ SEL Focus: Feeling safe with loved ones.
+21: Lesson 9 – Sharing the Paint
+ Keywords: paint, brush, colors, friend, share
+ Story:
+ Two friends sat at a table with bright paints and soft brushes. One friend ran out of blue paint, so the other shared theirs. Together, they mixed colors and created a beautiful picture they both loved.
+ SEL Focus: Sharing and cooperation.
+22: Lesson 10 – Waiting for the Sprout
+ Keywords: garden, carrot, water, grow, patient
+ Story:
+ A young child planted a tiny carrot seed in their garden. Every morning, they watered it carefully. Day after day, they waited patiently. One morning, a small green sprout peeked out, bringing a big smile to the child’s face.
+ SEL Focus: Patience and nurturing.
+23: GRADE 1 - MODULE 2: BUILD A STORY WITH KEYWORDS (MEDIUM)
+24: Lesson 1 – The Shared Acorn
+ Keywords: squirrel, acorn, branch, share, forest
+ Story:
+ A playful squirrel scampered along a tall branch carrying a shiny acorn. When he reached the forest floor, he noticed another squirrel who looked hungry. Without thinking twice, he offered to share his acorn. Both squirrels nibbled happily, enjoying a quiet moment of kindness under the trees.
+ SEL Focus: Sharing resources and empathy.
+25: Lesson 2 – Paddling Together
+ Keywords: canoe, lake, paddle, breeze, teamwork
+ Story:
+ Two friends climbed into a small canoe on a calm lake. At first, they paddled in different directions, making the canoe wobble. But soon they matched their strokes, letting the soft breeze guide them forward. Working together made the ride smooth and fun.
+ SEL Focus: Learning teamwork and coordination.
+26: Lesson 3 – Dancing at the Festival
+ Keywords: festival, drums, lights, dance, joy
+ Story:
+ During a colorful festival, bright lights lined the streets and drums echoed through the air. Children from many cultures danced together, each sharing their own steps. The whole night sparkled with joy as everyone celebrated in harmony.
+ SEL Focus: Cultural inclusivity and celebrating diversity.
+27: Lesson 4 – Warm Mittens, Kind Friend
+ Keywords: snow, mittens, trail, friend, support
+ Story:
+ On a snowy trail, a child’s hands grew cold. Seeing this, their friend gently offered warm mittens. They walked side by side, leaving small footprints behind them. With support from a kind friend, even the cold felt less scary.
+ SEL Focus: Caring for others and offering support.
+28: Lesson 5 – Lantern on the Lake
+ Keywords: boat, lantern, night, explore, courage
+ Story:
+ At night, two siblings stepped onto a small boat, carrying a glowing lantern. The light reflected on the water as they explored the quiet lake. Though the night felt big and mysterious, their courage helped them enjoy the adventure.
+ SEL Focus: Bravery and trying new experiences.
+29: Lesson 6 – Helping at the Market
+ Keywords: market, fruit, basket, kindness, neighbor
+ Story:
+ At a busy market, a child noticed an elderly neighbor struggling with a heavy basket of fruit. Without being asked, the child helped carry it to her cart. The neighbor smiled warmly, grateful for the kindness shown.
+ SEL Focus: Community and helpful behavior.
+30: Lesson 7 – Picnic on the Hill
+ Keywords: hillside, picnic, blanket, laughter, family
+ Story:
+ On a green hillside, a family spread out a picnic blanket. They shared snacks, told funny stories, and laughed until their cheeks hurt. As the sun set, they felt grateful for simple moments spent together.
+ SEL Focus: Gratitude and bonding.
+31: Lesson 8 – Promise to Protect
+ Keywords: turtle, coral, ocean, gentle, protect
+ Story:
+ A young child watched a turtle swim carefully around colorful coral in the ocean. The child learned how gentle creatures needed clean water to stay safe. From that day, they promised to protect the ocean in small but meaningful ways.
+ SEL Focus: Responsibility and care for the environment.
+32: Lesson 9 – The Village Drum
+ Keywords: village, drum, message, mountain, gather
+ Story:
+ In a cheerful village, a large drum was used to send messages. One morning, it boomed across the mountains, calling families to gather for a celebration. Children ran excitedly to the center square, ready to join in the fun.
+ SEL Focus: Community connection and belonging.
+33: Lesson 10 – Watching the Butterfly
+ Keywords: garden, butterfly, sunlight, patient, observe
+ Story:
+ In a quiet garden, a child spotted a butterfly resting in a beam of sunlight. Instead of rushing closer, they stood still and patiently observed the delicate wings. The moment felt magical, all because they practiced patience.
+ SEL Focus: Self-control and gentle observation.
+34: GRADE 1 - MODULE 2: BUILD A STORY WITH KEYWORDS (HARD)
+35: Lesson 1 – The Wise Guide
+ Keywords: desert, camel, path, heat, guide
+ Story:
+ During a warm desert walk, a gentle camel followed a winding path with a young traveler. The heat shimmered in the distance, but the camel stayed calm and steady. The traveler learned how important it was to follow a wise guide when the world feels unfamiliar.
+ SEL Focus: Trust and learning from guidance.
+36: Lesson 2 – Choosing to Be Brave
+ Keywords: island, canoe, sunrise, decision, brave
+ Story:
+ On a small island, a child watched the sunrise paint the sky gold. They needed to paddle across the water to deliver supplies to a friend. It felt like a big decision, but with a deep breath, they climbed into the canoe and chose to be brave.
+ SEL Focus: Decision-making and courage.
+37: Lesson 3 – Lanterns in Harmony
+ Keywords: festival, lanterns, parade, harmony, share
+ Story:
+ At an evening festival, families hung bright lanterns along the street. A parade marched by, playing lively music from many cultures. When a lantern fell, several children worked together to hang it back up, showing harmony through simple acts of sharing responsibility.
+ SEL Focus: Cooperation and unity.
+38: Lesson 4 – Finding the Right Path
+ Keywords: mountain, stream, lost, calm, thinking
+ Story:
+ While exploring a mountain trail, two children realized they had taken a wrong turn. Instead of panicking, they sat by a gentle stream and calmed their minds. With clear thinking, they remembered the right path home.
+ SEL Focus: Emotional regulation and problem-solving.
+39: Lesson 5 – The Storyteller’s Wisdom
+ Keywords: village, storyteller, memory, lesson, wisdom
+ Story:
+ In a small village, children gathered around a wise storyteller. She shared a tale about kindness and the importance of remembering others’ feelings. Each child carried the lesson home, holding the storyteller’s wisdom in their hearts.
+ SEL Focus: Understanding moral lessons.
+40: Lesson 6 – Light in the Storm
+ Keywords: ocean, lighthouse, storm, signal, safety
+ Story:
+ Waves crashed as a storm rolled in, but a bright lighthouse shone across the ocean. A child on shore learned how the signal helped boats find safety. They realized how important it is for people to look out for one another during hard times.
+ SEL Focus: Safety, reassurance, and protection.
+41: Lesson 7 – Breathing with the Flute
+ Keywords: meadow, flute, calm, breathing, peace
+ Story:
+ In a quiet meadow, a boy listened to the soft notes of a bamboo flute. He closed his eyes, breathed slowly, and felt peace spreading through his body. The melody taught him how calmness can grow when we pause and listen.
+ SEL Focus: Mindfulness and emotional grounding.
+42: Lesson 8 – Walking with Respect
+ Keywords: forest, footprints, explore, respect, nature
+ Story:
+ While exploring a forest, a child noticed tiny animal footprints along the trail. They walked carefully, making sure not to disturb nests or plants. Step by step, they learned how respecting nature helps every living thing thrive.
+ SEL Focus: Environmental respect and responsibility.
+43: Lesson 9 – The Patient Net
+ Keywords: harbor, fishermen, net, teamwork, patience
+ Story:
+ At a busy harbor, fishermen worked together to untangle a large net. A curious child watched as they moved slowly and patiently, never giving up. The scene showed how teamwork and patience make difficult jobs easier.
+ SEL Focus: Patience during challenging tasks.
+44: Lesson 10 – The Temple Bell
+ Keywords: temple, bell, tradition, community, meaning
+ Story:
+ In a peaceful village, a large bell rang each morning at the temple. Families gathered to greet the day together, honoring a tradition passed down for generations. A young child asked about its meaning and learned how traditions help communities stay connected.
+ SEL Focus: Belonging and understanding cultural traditions.
+45: GRADE 2 - MODULE 2: BUILD A STORY WITH KEYWORDS (EASY)
+46: Lesson 1 – Gentle Curiosity at Aquarium
+ Keywords: turtle, aquarium, wave, curious, gentle
+ Story: At the aquarium, a child watches a turtle glide by. She waves even though the turtle can’t wave back. She stays gentle and curious, taking her time to look.
+ SEL Focus: Gentle curiosity
+47: Lesson 2 – Returning the Scarf
+ Keywords: scarf, windy, lost, notice, return
+ Story: A scarf flies off in the wind near the sidewalk. A boy notices it caught on a fence. He picks it up and returns it to the owner.
+ SEL Focus: Doing the right thing
+48: Lesson 3 – Sharing the Chalk
+ Keywords: chalk, sidewalk, share, colors, smile
+ Story: Two kids draw with sidewalk chalk. One has extra colors and chooses to share. Soon they make a big picture together and smile.
+ SEL Focus: Sharing
+49: Lesson 4 – A Fair Trade
+ Keywords: lunch, cookie, trade, fair, choice
+ Story: At lunch, a child wants to trade a cookie for fruit. They talk and make a fair trade so both feel good. Each person gets a choice.
+ SEL Focus: Fairness
+
+...
+
+Grade1 HARD starts at idx 34
+34: GRADE 1 - MODULE 2: BUILD A STORY WITH KEYWORDS (HARD)
+35: Lesson 1 – The Wise Guide
+ Keywords: desert, camel, path, heat, guide
+ Story:
+ During a warm desert walk, a gentle camel followed a winding path with a young traveler. The heat shimmered in the distance, but the camel stayed calm and steady. The traveler learned how important it was to follow a wise guide when the world feels unfamiliar.
+ SEL Focus: Trust and learning from guidance.
+36: Lesson 2 – Choosing to Be Brave
+ Keywords: island, canoe, sunrise, decision, brave
+ Story:
+ On a small island, a child watched the sunrise paint the sky gold. They needed to paddle across the water to deliver supplies to a friend. It felt like a big decision, but with a deep breath, they climbed into the canoe and chose to be brave.
+ SEL Focus: Decision-making and courage.
+37: Lesson 3 – Lanterns in Harmony
+ Keywords: festival, lanterns, parade, harmony, share
+ Story:
+ At an evening festival, families hung bright lanterns along the street. A parade marched by, playing lively music from many cultures. When a lantern fell, several children worked together to hang it back up, showing harmony through simple acts of sharing responsibility.
+ SEL Focus: Cooperation and unity.
+38: Lesson 4 – Finding the Right Path
+ Keywords: mountain, stream, lost, calm, thinking
+ Story:
+ While exploring a mountain trail, two children realized they had taken a wrong turn. Instead of panicking, they sat by a gentle stream and calmed their minds. With clear thinking, they remembered the right path home.
+ SEL Focus: Emotional regulation and problem-solving.
+39: Lesson 5 – The Storyteller’s Wisdom
+ Keywords: village, storyteller, memory, lesson, wisdom
+ Story:
+ In a small village, children gathered around a wise storyteller. She shared a tale about kindness and the importance of remembering others’ feelings. Each child carried the lesson home, holding the storyteller’s wisdom in their hearts.
+ SEL Focus: Understanding moral lessons.
+40: Lesson 6 – Light in the Storm
+ Keywords: ocean, lighthouse, storm, signal, safety
+ Story:
+ Waves crashed as a storm rolled in, but a bright lighthouse shone across the ocean. A child on shore learned how the signal helped boats find safety. They realized how important it is for people to look out for one another during hard times.
+ SEL Focus: Safety, reassurance, and protection.
+41: Lesson 7 – Breathing with the Flute
+ Keywords: meadow, flute, calm, breathing, peace
+ Story:
+ In a quiet meadow, a boy listened to the soft notes of a bamboo flute. He closed his eyes, breathed slowly, and felt peace spreading through his body. The melody taught him how calmness can grow when we pause and listen.
+ SEL Focus: Mindfulness and emotional grounding.
+42: Lesson 8 – Walking with Respect
+ Keywords: forest, footprints, explore, respect, nature
+ Story:
+ While exploring a forest, a child noticed tiny animal footprints along the trail. They walked carefully, making sure not to disturb nests or plants. Step by step, they learned how respecting nature helps every living thing thrive.
+ SEL Focus: Environmental respect and responsibility.
+43: Lesson 9 – The Patient Net
+ Keywords: harbor, fishermen, net, teamwork, patience
+ Story:
+ At a busy harbor, fishermen worked together to untangle a large net. A curious child watched as they moved slowly and patiently, never giving up. The scene showed how teamwork and patience make difficult jobs easier.
+ SEL Focus: Patience during challenging tasks.
+44: Lesson 10 – The Temple Bell
+ Keywords: temple, bell, tradition, community, meaning
+ Story:
+ In a peaceful village, a large bell rang each morning at the temple. Families gathered to greet the day together, honoring a tradition passed down for generations. A young child asked about its meaning and learned how traditions help communities stay connected.
+ SEL Focus: Belonging and understanding cultural traditions.
+45: GRADE 2 - MODULE 2: BUILD A STORY WITH KEYWORDS (EASY)
+46: Lesson 1 – Gentle Curiosity at Aquarium
+ Keywords: turtle, aquarium, wave, curious, gentle
+ Story: At the aquarium, a child watches a turtle glide by. She waves even though the turtle can’t wave back. She stays gentle and curious, taking her time to look.
+ SEL Focus: Gentle curiosity
+47: Lesson 2 – Returning the Scarf
+ Keywords: scarf, windy, lost, notice, return
+ Story: A scarf flies off in the wind near the sidewalk. A boy notices it caught on a fence. He picks it up and returns it to the owner.
+ SEL Focus: Doing the right thing
+48: Lesson 3 – Sharing the Chalk
+ Keywords: chalk, sidewalk, share, colors, smile
+ Story: Two kids draw with sidewalk chalk. One has extra colors and chooses to share. Soon they make a big picture together and smile.
+ SEL Focus: Sharing
+49: Lesson 4 – A Fair Trade
+ Keywords: lunch, cookie, trade, fair, choice
+ Story: At lunch, a child wants to trade a cookie for fruit. They talk and make a fair trade so both feel good. Each person gets a choice.
+ SEL Focus: Fairness
+50: Lesson 5 – Finding the Missing Piece
+ Keywords: puzzle, missing, search, teamwork, found
+ Story: A classroom puzzle is missing one piece. The group searches calmly, checking under tables. They find it near a bookshelf and cheer together.
+ SEL Focus: Teamwork
+51: Lesson 6 – Sharing an Umbrella
+ Keywords: bus-stop, umbrella, rain, offer, thankful
+ Story: It starts raining at the bus stop. One child offers an umbrella to a neighbor who forgot theirs. The neighbor feels thankful and relieved.
+ SEL Focus: Kindness
+52: Lesson 7 – Try Again, Pass Better
+ Keywords: soccer, pass, mistake, encourage, try
+ Story: During soccer, a kid makes a bad pass and feels embarrassed. A teammate encourages them to try again. The next pass is better, and they feel proud.
+ SEL Focus: Encouragement
+53: Lesson 8 – The Quiet Signal
+ Keywords: classroom, noise, signal, quiet, respect
+ Story: The classroom gets noisy during group work. A student uses a quiet signal they learned. Others notice and lower their voices to show respect.
+ SEL Focus: Respectful teamwork
+54: Lesson 9 – Breathing on Stage
+ Keywords: stage, poem, nervous, breathe, steady
+ Story: A student goes on stage to read a poem and feels nervous. They take a deep breath and speak slowly. Their voice becomes steady by the end.
+ SEL Focus: Managing nerves
+55: Lesson 10 – Fixing the Mistake
+ Keywords: art, mistake, erase, redo, confidence
+ Story: A student makes a mistake in their art and wants to quit. They erase carefully, redo the part, and keep going. Finishing the picture builds confidence.
+ SEL Focus: Persistence
+56: GRADE 2 - MODULE 2: BUILD A STORY WITH KEYWORDS (MEDIUM)
+57: Lesson 1 – Waiting with a Smile
+ Keywords: bakery, line, wait, polite, smile
+ Story: In the bakery, the line moves slowly. A child waits politely and keeps their hands to themselves. The baker notices the patience and smiles warmly.
+ SEL Focus: Patient waiting
+58: Lesson 2 – Saying Hello First
+ Keywords: hallway, new-student, hello, brave, friendly
+ Story: A new student stands quietly in the hallway. Another child says hello and asks their name. The new student feels brave and a little more friendly.
+ SEL Focus: Welcoming others
+59: Lesson 3 – Borrow and Return
+ Keywords: crayons, borrow, ask, return, trust
+ Story: A child wants a crayon they don’t have. They ask to borrow one and promise to return it. Returning it later builds trust.
+ SEL Focus: Respecting belongings
+60: Lesson 4 – Growing a Seed
+ Keywords: garden, seed, water, careful, grow
+ Story: The class plants a seed in a small garden box. They water it carefully so the soil stays soft. Each day they check for growth with excitement.
+ SEL Focus: Caring responsibility
+61: Lesson 5 – Solving Game Rules
+ Keywords: recess, rules, game, disagree, solve
+ Story: Two kids disagree about the rules in a game. They stop, restate the rules, and choose one version together. Solving it calmly helps the game continue.
+ SEL Focus: Calm problem-solving
+62: Lesson 6 – Cleaning Up Together
+ Keywords: cafeteria, spill, cleanup, help, relieved
+ Story: A milk carton spills in the cafeteria. Instead of hiding, the student asks for help and cleans it up with a friend. Everyone feels relieved when the floor is safe.
+ SEL Focus: Owning mistakes
+63: Lesson 7 – Listening to the Beat
+ Keywords: music, volume, reminder, listen, adjust
+ Story: During music practice, the group gets too loud. One student gives a kind reminder to listen for the beat. The class adjusts and sounds better together.
+ SEL Focus: Listening and adjusting
